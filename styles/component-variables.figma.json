@@ -1,0 +1,77 @@
+{
+  "collections": [
+    {
+      "name": "Component",
+      "modes": [
+        "Light",
+        "Dark"
+      ],
+      "variables": [
+        {
+          "name": "component/bg",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#FFFFFF",
+            "Dark": "#0F172A"
+          }
+        },
+        {
+          "name": "component/surface",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#F8FAFC",
+            "Dark": "#1E293B"
+          }
+        },
+        {
+          "name": "component/border",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#D0D7DE",
+            "Dark": "#334155"
+          }
+        },
+        {
+          "name": "component/text",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#1F2328",
+            "Dark": "#E2E8F0"
+          }
+        },
+        {
+          "name": "component/text-muted",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#57606A",
+            "Dark": "#94A3B8"
+          }
+        },
+        {
+          "name": "component/accent",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#2563EB",
+            "Dark": "#60A5FA"
+          }
+        },
+        {
+          "name": "component/accent-contrast",
+          "type": "COLOR",
+          "valuesByMode": {
+            "Light": "#FFFFFF",
+            "Dark": "#0F172A"
+          }
+        },
+        {
+          "name": "component/shadow",
+          "type": "STRING",
+          "valuesByMode": {
+            "Light": "0 2px 8px rgba(15, 23, 42, 0.08)",
+            "Dark": "0 2px 8px rgba(2, 6, 23, 0.45)"
+          }
+        }
+      ]
+    }
+  ]
+}
