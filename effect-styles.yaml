@@ -1,0 +1,140 @@
+# Effect Styles
+# Converted from uploaded file: Styles.json (styles.effectStyles)
+# Total effect styles: 12
+
+metadata:
+  exportDate: '2026-07-30T05:39:49.508Z'
+  fileName: Source
+effects:
+- name: Component/Tooltip
+  token: component-tooltip
+  type: effect
+  value: 'box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0.15)'
+  effects:
+  - type: drop-shadow
+    x: 0
+    y: 3
+    blur: 12
+    spread: 0
+    color: rgba(0, 0, 0, 0.15)
+- name: Component/Buttons/Primary/Default
+  token: component-buttons-primary-default
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #2b42a9'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#2b42a9'
+- name: Component/Buttons/Primary/Disable
+  token: component-buttons-primary-disable
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #8090d0'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#8090d0'
+- name: Component/Buttons/Default/Default
+  token: component-buttons-default-default
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #d5d8e9'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#d5d8e9'
+- name: Component/Buttons/Negative/Default
+  token: component-buttons-negative-default
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #9e0e1a'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#9e0e1a'
+- name: Component/Buttons/Negative/Disable
+  token: component-buttons-negative-disable
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #f49ea5'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#f49ea5'
+- name: Component/Buttons/Success/Default
+  token: component-buttons-success-default
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #007544'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#007544'
+- name: Component/Buttons/Success/Disable
+  token: component-buttons-success-disable
+  type: effect
+  value: 'box-shadow: inset 0px -2px 0px 0px #3db280'
+  effects:
+  - type: inner-shadow
+    x: 0
+    y: -2
+    blur: 0
+    spread: 0
+    color: '#3db280'
+- name: Component/Input-Dropdown/Focus
+  token: component-input-dropdown-focus
+  type: effect
+  value: 'box-shadow: 0px 0px 6px 0px rgba(76, 94, 253, 0.5)'
+  effects:
+  - type: drop-shadow
+    x: 0
+    y: 0
+    blur: 6
+    spread: 0
+    color: rgba(76, 94, 253, 0.5)
+- name: Component/Dropdown/Shadow
+  token: component-dropdown-shadow
+  type: effect
+  value: 'box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.15)'
+  effects:
+  - type: drop-shadow
+    x: 0
+    y: 2
+    blur: 8
+    spread: 0
+    color: rgba(0, 0, 0, 0.15)
+- name: Component/Meaasgebox/Shadow
+  token: component-meaasgebox-shadow
+  type: effect
+  value: 'box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.15)'
+  effects:
+  - type: drop-shadow
+    x: 0
+    y: 2
+    blur: 6
+    spread: 0
+    color: rgba(0, 0, 0, 0.15)
+- name: Component/Modal/Model-Popup Shadow
+  token: component-modal-model-popup-shadow
+  type: effect
+  value: 'box-shadow: 0px 4px 18px 0px rgba(49, 57, 73, 0.6)'
+  effects:
+  - type: drop-shadow
+    x: 0
+    y: 4
+    blur: 18
+    spread: 0
+    color: rgba(49, 57, 73, 0.6)

@@ -1,0 +1,77 @@
+# Text Styles — NXG-CRM Typography
+# Converted from uploaded file: textStyles.json
+
+fileName: Source
+textStyles:
+- name: NXG-CRM/Headig-H1
+  fontFamily: Zoho Puvi
+  fontWeight: Semibold
+  fontSize: 20
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Headig-H2
+  fontFamily: Zoho Puvi
+  fontWeight: Semibold
+  fontSize: 18
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Headig-H3
+  fontFamily: Zoho Puvi
+  fontWeight: Semibold
+  fontSize: 15
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Headig-H4
+  fontFamily: Zoho Puvi
+  fontWeight: Semibold
+  fontSize: 14
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Headig-H5
+  fontFamily: Zoho Puvi
+  fontWeight: Semibold
+  fontSize: 13
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Regular Font-Paragraph
+  fontFamily: Zoho Puvi
+  fontWeight: Regular
+  fontSize: 14
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Medium-Font
+  fontFamily: Zoho Puvi
+  fontWeight: Regular
+  fontSize: 13
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Small Font
+  fontFamily: Zoho Puvi
+  fontWeight: Regular
+  fontSize: 12
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
+- name: NXG-CRM/Extra Small Font
+  fontFamily: Zoho Puvi
+  fontWeight: Regular
+  fontSize: 11
+  letterSpacing:
+    unit: PERCENT
+    value: 0
+  textCase: ORIGINAL
