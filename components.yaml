@@ -1,0 +1,147 @@
+# Component specification for: Button, Radio Button, Input Field, Checkbox, Dropdown, Toggle
+# Extracted from Figma file "Source" (Test page)
+# URL: https://www.figma.com/design/HMU6Pz7woPmkIlIKSLFRSh/Source?node-id=90768-18140
+
+source_file:
+  name: Source
+  key: HMU6Pz7woPmkIlIKSLFRSh
+  page: Test
+  url: https://www.figma.com/design/HMU6Pz7woPmkIlIKSLFRSh/Source?node-id=90768-18140
+components:
+- name: Button
+  figma_layer_name: ❌ Button
+  component_key: 43e98e00d56ac580b936d4d6558a92b03ff8781d
+  node_id: 90768:18341
+  aliases: Buttons, Btn
+  variant_count: 153
+  variant_axes:
+  - property: Type
+    values:
+    - Primary Button
+    - Default Button
+    - Outline Blue Btn
+    - Ghost Blue Btn
+    - Negative Button
+    - Outline Negative Btn
+    - Ghost Negative Btn
+    - Success Button
+    - Outline Success Btn
+    - Waning Button
+    - Outline Warning Btn
+    - More Icon Btn
+    - More Primary Btn
+    - More Default Btn
+    - More Outline Blue Btn
+    - Primary Link
+    - Secondary Link
+    - Negative Link
+    - Default Link
+    - Zia Primary
+    - Zia Outline
+    - Refresh Btn
+  - property: Size
+    values:
+    - Default
+    - Small
+    - Extra Small
+  - property: State
+    values:
+    - Default
+    - Hover
+    - Clicked
+    - Loading
+    - Disabled
+- name: Radio Button
+  figma_layer_name: ❌ Radio Button
+  component_key: cdd654832c2f4c5594b097589d444d0b0fa71e5a
+  node_id: 90768:24514
+  aliases: Option Button, Radio, Radio Btn, Selection Button
+  variant_count: 7
+  variant_axes:
+  - property: State
+    values:
+    - Default
+    - Hover
+    - Clicked
+    - Disabled
+    - Checked Disable
+    - Focus
+    - Checked Focus
+- name: Input Field
+  figma_layer_name: ❌ Input field - Not Approved
+  component_key: 9be44e28c9c71a93709ba4cf024c31dab9c2c703
+  node_id: 90768:21996
+  aliases: Text Field, Input, Form Field, Input Field
+  variant_count: 48
+  variant_axes:
+  - property: Size
+    values:
+    - Small
+    - Normal
+  - property: Type
+    values:
+    - Currency
+    - Field
+    - Password Field
+    - Header
+    - Date & Time
+  - property: State
+    values:
+    - Error
+    - Disabled
+    - Auto Update
+    - Focused
+    - Default
+    - Hover
+- name: Checkbox
+  figma_layer_name: ❌ Checkbox
+  component_key: fe77554421e6bf0623a2d581047eeb51ee8264ef
+  node_id: 90768:25611
+  aliases: Tickbox
+  variant_count: 8
+  variant_axes:
+  - property: State
+    values:
+    - Default
+    - Hover
+    - Checked
+    - Disabled
+    - Checked Disable
+    - Focus
+    - Checked Focus
+    - Indeterminate
+- name: Dropdown
+  figma_layer_name: ❌ Dropdown
+  component_key: bd3de72d7ee9145396e27a4e10e928bf3bcfb816
+  node_id: 90768:25802
+  aliases: Drop down, Drop-down, Drop Down List, Picklist
+  variant_count: 10
+  variant_axes:
+  - property: State
+    values:
+    - Default
+    - Hover
+    - Active
+    - Error
+    - Disabled
+  - property: Size
+    values:
+    - Default
+    - Small
+- name: Toggle
+  figma_layer_name: ❌ Toggle
+  component_key: ea789140ff36b26a586e713bdb47e67119b09453
+  node_id: 90768:25695
+  aliases: Toggle, Toggle Switch, Switch
+  variant_count: 8
+  variant_axes:
+  - property: Switch
+    values:
+    - 'Off'
+    - 'On'
+  - property: State
+    values:
+    - Default
+    - Hover (Only in interaction)
+    - Disabled
+    - Focus
