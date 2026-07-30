@@ -1,0 +1,8727 @@
+# Lucide Icon Set
+# Source: https://github.com/lucide-icons/lucide (commit 4aec3f892fd6c23063bc2fead83c899b5d412b1c)
+# Total icons: 1756
+# Usage: import { <importName> } from "lucide-react"
+# Note: full tag/alias metadata omitted (website-search data, not needed for codegen).
+#       SVG path data omitted too — icons should be imported from the library, not inlined.
+
+library: lucide-react
+iconCount: 1756
+icons:
+  a-arrow-down:
+    importName: AArrowDown
+    categories:
+    - text
+    - design
+  a-arrow-up:
+    importName: AArrowUp
+    categories:
+    - text
+    - design
+  a-large-small:
+    importName: ALargeSmall
+    categories:
+    - text
+    - design
+  accessibility:
+    importName: Accessibility
+    categories:
+    - accessibility
+    - medical
+  activity:
+    importName: Activity
+    categories:
+    - medical
+    - account
+    - social
+    - science
+    - multimedia
+  ad:
+    importName: Ad
+    categories:
+    - multimedia
+    - accessibility
+    - notifications
+  air-vent:
+    importName: AirVent
+    categories:
+    - home
+  airplay:
+    importName: Airplay
+    categories:
+    - multimedia
+    - connectivity
+  alarm-clock-check:
+    importName: AlarmClockCheck
+    categories:
+    - devices
+    - notifications
+    - time
+  alarm-clock-minus:
+    importName: AlarmClockMinus
+    categories:
+    - devices
+    - notifications
+    - time
+  alarm-clock-off:
+    importName: AlarmClockOff
+    categories:
+    - devices
+    - notifications
+    - time
+  alarm-clock-plus:
+    importName: AlarmClockPlus
+    categories:
+    - devices
+    - notifications
+    - time
+  alarm-clock:
+    importName: AlarmClock
+    categories:
+    - devices
+    - notifications
+    - time
+  alarm-smoke:
+    importName: AlarmSmoke
+    categories:
+    - home
+    - devices
+    - travel
+  album:
+    importName: Album
+    categories:
+    - photography
+    - multimedia
+  align-center-horizontal:
+    importName: AlignCenterHorizontal
+    categories:
+    - layout
+  align-center-vertical:
+    importName: AlignCenterVertical
+    categories:
+    - layout
+  align-end-horizontal:
+    importName: AlignEndHorizontal
+    categories:
+    - layout
+  align-end-vertical:
+    importName: AlignEndVertical
+    categories:
+    - layout
+  align-horizontal-distribute-center:
+    importName: AlignHorizontalDistributeCenter
+    categories:
+    - layout
+  align-horizontal-distribute-end:
+    importName: AlignHorizontalDistributeEnd
+    categories:
+    - layout
+  align-horizontal-distribute-start:
+    importName: AlignHorizontalDistributeStart
+    categories:
+    - layout
+  align-horizontal-justify-center:
+    importName: AlignHorizontalJustifyCenter
+    categories:
+    - layout
+  align-horizontal-justify-end:
+    importName: AlignHorizontalJustifyEnd
+    categories:
+    - layout
+  align-horizontal-justify-start:
+    importName: AlignHorizontalJustifyStart
+    categories:
+    - layout
+  align-horizontal-space-around:
+    importName: AlignHorizontalSpaceAround
+    categories:
+    - layout
+  align-horizontal-space-between:
+    importName: AlignHorizontalSpaceBetween
+    categories:
+    - layout
+  align-start-horizontal:
+    importName: AlignStartHorizontal
+    categories:
+    - layout
+  align-start-vertical:
+    importName: AlignStartVertical
+    categories:
+    - layout
+  align-vertical-distribute-center:
+    importName: AlignVerticalDistributeCenter
+    categories:
+    - layout
+  align-vertical-distribute-end:
+    importName: AlignVerticalDistributeEnd
+    categories:
+    - layout
+  align-vertical-distribute-start:
+    importName: AlignVerticalDistributeStart
+    categories:
+    - layout
+  align-vertical-justify-center:
+    importName: AlignVerticalJustifyCenter
+    categories:
+    - layout
+  align-vertical-justify-end:
+    importName: AlignVerticalJustifyEnd
+    categories:
+    - layout
+  align-vertical-justify-start:
+    importName: AlignVerticalJustifyStart
+    categories:
+    - layout
+  align-vertical-space-around:
+    importName: AlignVerticalSpaceAround
+    categories:
+    - layout
+  align-vertical-space-between:
+    importName: AlignVerticalSpaceBetween
+    categories:
+    - layout
+  ambulance:
+    importName: Ambulance
+    categories:
+    - medical
+    - transportation
+  ampersand:
+    importName: Ampersand
+    categories:
+    - text
+    - development
+  ampersands:
+    importName: Ampersands
+    categories:
+    - text
+    - development
+  amphora:
+    importName: Amphora
+    categories:
+    - food-beverage
+    - gaming
+  anchor:
+    importName: Anchor
+    categories:
+    - transportation
+    - text
+  angry:
+    importName: Angry
+    categories:
+    - emoji
+  annoyed:
+    importName: Annoyed
+    categories:
+    - emoji
+  antenna:
+    importName: Antenna
+    categories:
+    - devices
+    - multimedia
+    - communication
+  anvil:
+    importName: Anvil
+    categories:
+    - buildings
+    - tools
+    - gaming
+  aperture:
+    importName: Aperture
+    categories:
+    - photography
+  app-window-mac:
+    importName: AppWindowMac
+    categories:
+    - layout
+    - design
+    - development
+    - files
+  app-window:
+    importName: AppWindow
+    categories:
+    - layout
+    - design
+    - development
+    - files
+  apple:
+    importName: Apple
+    categories:
+    - food-beverage
+  archive-restore:
+    importName: ArchiveRestore
+    categories:
+    - files
+    - mail
+  archive-x:
+    importName: ArchiveX
+    categories:
+    - files
+    - mail
+  archive:
+    importName: Archive
+    categories:
+    - files
+    - mail
+  armchair:
+    importName: Armchair
+    categories:
+    - home
+  arrow-big-down-dash:
+    importName: ArrowBigDownDash
+    categories:
+    - arrows
+    - gaming
+    - files
+  arrow-big-down:
+    importName: ArrowBigDown
+    categories:
+    - arrows
+    - gaming
+  arrow-big-left-dash:
+    importName: ArrowBigLeftDash
+    categories:
+    - arrows
+    - gaming
+  arrow-big-left:
+    importName: ArrowBigLeft
+    categories:
+    - arrows
+    - gaming
+  arrow-big-right-dash:
+    importName: ArrowBigRightDash
+    categories:
+    - arrows
+    - gaming
+  arrow-big-right:
+    importName: ArrowBigRight
+    categories:
+    - arrows
+    - gaming
+  arrow-big-up-dash:
+    importName: ArrowBigUpDash
+    categories:
+    - arrows
+    - text
+    - development
+    - gaming
+  arrow-big-up:
+    importName: ArrowBigUp
+    categories:
+    - arrows
+    - text
+    - development
+    - gaming
+  arrow-down-0-1:
+    importName: ArrowDown01
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down-1-0:
+    importName: ArrowDown10
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down-a-z:
+    importName: ArrowDownAZ
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down-from-line:
+    importName: ArrowDownFromLine
+    categories:
+    - arrows
+    - files
+  arrow-down-left:
+    importName: ArrowDownLeft
+    categories:
+    - arrows
+  arrow-down-narrow-wide:
+    importName: ArrowDownNarrowWide
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down-right:
+    importName: ArrowDownRight
+    categories:
+    - arrows
+  arrow-down-to-dot:
+    importName: ArrowDownToDot
+    categories:
+    - arrows
+  arrow-down-to-line:
+    importName: ArrowDownToLine
+    categories:
+    - arrows
+    - files
+    - development
+  arrow-down-up:
+    importName: ArrowDownUp
+    categories:
+    - arrows
+  arrow-down-wide-narrow:
+    importName: ArrowDownWideNarrow
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down-z-a:
+    importName: ArrowDownZA
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-down:
+    importName: ArrowDown
+    categories:
+    - arrows
+  arrow-left-from-line:
+    importName: ArrowLeftFromLine
+    categories:
+    - arrows
+  arrow-left-right:
+    importName: ArrowLeftRight
+    categories:
+    - arrows
+  arrow-left-to-line:
+    importName: ArrowLeftToLine
+    categories:
+    - arrows
+  arrow-left:
+    importName: ArrowLeft
+    categories:
+    - arrows
+  arrow-right-from-line:
+    importName: ArrowRightFromLine
+    categories:
+    - arrows
+  arrow-right-left:
+    importName: ArrowRightLeft
+    categories:
+    - arrows
+  arrow-right-to-line:
+    importName: ArrowRightToLine
+    categories:
+    - arrows
+    - development
+  arrow-right:
+    importName: ArrowRight
+    categories:
+    - arrows
+  arrow-up-0-1:
+    importName: ArrowUp01
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up-1-0:
+    importName: ArrowUp10
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up-a-z:
+    importName: ArrowUpAZ
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up-down:
+    importName: ArrowUpDown
+    categories:
+    - arrows
+  arrow-up-from-dot:
+    importName: ArrowUpFromDot
+    categories:
+    - arrows
+  arrow-up-from-line:
+    importName: ArrowUpFromLine
+    categories:
+    - arrows
+    - files
+    - development
+  arrow-up-left:
+    importName: ArrowUpLeft
+    categories:
+    - arrows
+  arrow-up-narrow-wide:
+    importName: ArrowUpNarrowWide
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up-right:
+    importName: ArrowUpRight
+    categories:
+    - arrows
+  arrow-up-to-line:
+    importName: ArrowUpToLine
+    categories:
+    - arrows
+    - files
+  arrow-up-wide-narrow:
+    importName: ArrowUpWideNarrow
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up-z-a:
+    importName: ArrowUpZA
+    categories:
+    - text
+    - layout
+    - arrows
+  arrow-up:
+    importName: ArrowUp
+    categories:
+    - arrows
+  arrows-up-from-line:
+    importName: ArrowsUpFromLine
+    categories:
+    - arrows
+    - transportation
+    - mail
+  asterisk:
+    importName: Asterisk
+    categories:
+    - text
+    - math
+    - development
+  astroid:
+    importName: Astroid
+    categories:
+    - shapes
+    - math
+  at-sign:
+    importName: AtSign
+    categories:
+    - text
+    - account
+  atom:
+    importName: Atom
+    categories:
+    - science
+  audio-lines:
+    importName: AudioLines
+    categories:
+    - multimedia
+    - communication
+  audio-waveform:
+    importName: AudioWaveform
+    categories:
+    - multimedia
+    - communication
+  award:
+    importName: Award
+    categories:
+    - account
+    - sports
+    - gaming
+  axe:
+    importName: Axe
+    categories:
+    - tools
+    - gaming
+  axis-3d:
+    importName: Axis3d
+    categories:
+    - design
+  baby:
+    importName: Baby
+    categories:
+    - accessibility
+    - people
+  backpack:
+    importName: Backpack
+    categories:
+    - gaming
+    - photography
+    - travel
+  badge-alert:
+    importName: BadgeAlert
+    categories:
+    - account
+    - social
+  badge-cent:
+    importName: BadgeCent
+    categories:
+    - shopping
+    - finance
+  badge-check:
+    importName: BadgeCheck
+    categories:
+    - social
+  badge-dollar-sign:
+    importName: BadgeDollarSign
+    categories:
+    - shopping
+    - finance
+  badge-euro:
+    importName: BadgeEuro
+    categories:
+    - shopping
+    - finance
+  badge-indian-rupee:
+    importName: BadgeIndianRupee
+    categories:
+    - shopping
+    - finance
+  badge-info:
+    importName: BadgeInfo
+    categories:
+    - account
+    - accessibility
+    - social
+  badge-japanese-yen:
+    importName: BadgeJapaneseYen
+    categories:
+    - shopping
+    - finance
+  badge-minus:
+    importName: BadgeMinus
+    categories:
+    - social
+  badge-percent:
+    importName: BadgePercent
+    categories:
+    - social
+    - finance
+    - shopping
+    - math
+  badge-plus:
+    importName: BadgePlus
+    categories:
+    - social
+  badge-pound-sterling:
+    importName: BadgePoundSterling
+    categories:
+    - shopping
+    - finance
+  badge-question-mark:
+    importName: BadgeQuestionMark
+    categories:
+    - accessibility
+    - social
+    - shapes
+  badge-russian-ruble:
+    importName: BadgeRussianRuble
+    categories:
+    - shopping
+    - finance
+  badge-swiss-franc:
+    importName: BadgeSwissFranc
+    categories:
+    - shopping
+    - finance
+  badge-turkish-lira:
+    importName: BadgeTurkishLira
+    categories:
+    - shopping
+    - finance
+  badge-x:
+    importName: BadgeX
+    categories:
+    - social
+  badge:
+    importName: Badge
+    categories:
+    - account
+    - social
+    - shapes
+  baggage-claim:
+    importName: BaggageClaim
+    categories:
+    - transportation
+    - travel
+  balloon:
+    importName: Balloon
+    categories:
+    - emoji
+  ban:
+    importName: Ban
+    categories:
+    - account
+  banana:
+    importName: Banana
+    categories:
+    - food-beverage
+  bandage:
+    importName: Bandage
+    categories:
+    - medical
+  banknote-arrow-down:
+    importName: BanknoteArrowDown
+    categories:
+    - finance
+  banknote-arrow-up:
+    importName: BanknoteArrowUp
+    categories:
+    - finance
+  banknote-check:
+    importName: BanknoteCheck
+    categories:
+    - finance
+  banknote-x:
+    importName: BanknoteX
+    categories:
+    - finance
+  banknote:
+    importName: Banknote
+    categories:
+    - finance
+  barcode:
+    importName: Barcode
+    categories:
+    - shopping
+  barrel:
+    importName: Barrel
+    categories:
+    - food-beverage
+    - navigation
+  baseline:
+    importName: Baseline
+    categories:
+    - text
+  bath:
+    importName: Bath
+    categories:
+    - travel
+  battery-charging:
+    importName: BatteryCharging
+    categories:
+    - connectivity
+    - devices
+  battery-full:
+    importName: BatteryFull
+    categories:
+    - connectivity
+    - devices
+  battery-low:
+    importName: BatteryLow
+    categories:
+    - connectivity
+    - devices
+  battery-medium:
+    importName: BatteryMedium
+    categories:
+    - connectivity
+    - devices
+  battery-plus:
+    importName: BatteryPlus
+    categories:
+    - devices
+  battery-warning:
+    importName: BatteryWarning
+    categories:
+    - connectivity
+    - devices
+  battery:
+    importName: Battery
+    categories:
+    - connectivity
+    - devices
+  beaker:
+    importName: Beaker
+    categories:
+    - science
+    - gaming
+  bean-off:
+    importName: BeanOff
+    categories:
+    - food-beverage
+  bean:
+    importName: Bean
+    categories:
+    - food-beverage
+  bed-double:
+    importName: BedDouble
+    categories:
+    - home
+  bed-single:
+    importName: BedSingle
+    categories:
+    - home
+  bed:
+    importName: Bed
+    categories:
+    - home
+  beef-off:
+    importName: BeefOff
+    categories:
+    - food-beverage
+  beef:
+    importName: Beef
+    categories:
+    - food-beverage
+  beer-off:
+    importName: BeerOff
+    categories:
+    - food-beverage
+  beer:
+    importName: Beer
+    categories:
+    - food-beverage
+  bell-check:
+    importName: BellCheck
+    categories:
+    - account
+    - notifications
+  bell-dot:
+    importName: BellDot
+    categories:
+    - account
+    - notifications
+  bell-electric:
+    importName: BellElectric
+    categories:
+    - devices
+    - notifications
+    - home
+  bell-minus:
+    importName: BellMinus
+    categories:
+    - notifications
+  bell-off:
+    importName: BellOff
+    categories:
+    - notifications
+  bell-plus:
+    importName: BellPlus
+    categories:
+    - notifications
+  bell-ring:
+    importName: BellRing
+    categories:
+    - notifications
+  bell:
+    importName: Bell
+    categories:
+    - account
+    - notifications
+  between-horizontal-end:
+    importName: BetweenHorizontalEnd
+    categories:
+    - layout
+    - design
+    - tools
+  between-horizontal-start:
+    importName: BetweenHorizontalStart
+    categories:
+    - layout
+    - design
+    - tools
+  between-vertical-end:
+    importName: BetweenVerticalEnd
+    categories:
+    - layout
+    - design
+    - tools
+  between-vertical-start:
+    importName: BetweenVerticalStart
+    categories:
+    - layout
+    - design
+    - tools
+  biceps-flexed:
+    importName: BicepsFlexed
+    categories:
+    - emoji
+  bike:
+    importName: Bike
+    categories:
+    - transportation
+  binary:
+    importName: Binary
+    categories:
+    - text
+    - development
+  binoculars:
+    importName: Binoculars
+    categories:
+    - navigation
+    - nature
+    - photography
+    - science
+    - travel
+    - development
+  biohazard:
+    importName: Biohazard
+    categories:
+    - science
+  bird:
+    importName: Bird
+    categories:
+    - animals
+  birdhouse:
+    importName: Birdhouse
+    categories:
+    - nature
+    - animals
+    - navigation
+    - home
+  bitcoin:
+    importName: Bitcoin
+    categories:
+    - development
+    - finance
+  blend:
+    importName: Blend
+    categories:
+    - design
+    - photography
+    - tools
+    - development
+  blender:
+    importName: Blender
+    categories:
+    - food-beverage
+    - home
+  blinds:
+    importName: Blinds
+    categories:
+    - home
+  blocks:
+    importName: Blocks
+    categories:
+    - development
+    - layout
+    - shapes
+  bluetooth-connected:
+    importName: BluetoothConnected
+    categories:
+    - connectivity
+    - devices
+  bluetooth-off:
+    importName: BluetoothOff
+    categories:
+    - connectivity
+    - devices
+  bluetooth-searching:
+    importName: BluetoothSearching
+    categories:
+    - connectivity
+    - devices
+  bluetooth:
+    importName: Bluetooth
+    categories:
+    - connectivity
+    - devices
+  bold:
+    importName: Bold
+    categories:
+    - text
+  bolt:
+    importName: Bolt
+    categories:
+    - tools
+    - home
+  bomb:
+    importName: Bomb
+    categories:
+    - security
+    - tools
+  bone-fracture:
+    importName: BoneFracture
+    categories:
+    - medical
+    - animals
+  bone:
+    importName: Bone
+    categories:
+    - animals
+    - medical
+    - gaming
+  book-a:
+    importName: BookA
+    categories:
+    - text
+    - gaming
+  book-alert:
+    importName: BookAlert
+    categories:
+    - text
+    - development
+    - gaming
+  book-audio:
+    importName: BookAudio
+    categories:
+    - multimedia
+    - text
+  book-check:
+    importName: BookCheck
+    categories:
+    - text
+    - development
+    - gaming
+  book-copy:
+    importName: BookCopy
+    categories:
+    - development
+    - text
+    - gaming
+  book-dashed:
+    importName: BookDashed
+    categories:
+    - development
+  book-down:
+    importName: BookDown
+    categories:
+    - development
+  book-headphones:
+    importName: BookHeadphones
+    categories:
+    - multimedia
+    - text
+  book-heart:
+    importName: BookHeart
+    categories:
+    - social
+    - text
+    - gaming
+  book-image:
+    importName: BookImage
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+    - social
+    - shopping
+    - travel
+  book-key:
+    importName: BookKey
+    categories:
+    - development
+    - security
+    - gaming
+  book-lock:
+    importName: BookLock
+    categories:
+    - development
+    - security
+    - gaming
+  book-marked:
+    importName: BookMarked
+    categories:
+    - text
+    - development
+    - gaming
+  book-minus:
+    importName: BookMinus
+    categories:
+    - development
+    - text
+    - gaming
+  book-open-check:
+    importName: BookOpenCheck
+    categories:
+    - text
+    - development
+    - gaming
+  book-open-text:
+    importName: BookOpenText
+    categories:
+    - text
+    - development
+  book-open:
+    importName: BookOpen
+    categories:
+    - text
+    - development
+    - gaming
+  book-plus:
+    importName: BookPlus
+    categories:
+    - development
+    - text
+    - gaming
+  book-search:
+    importName: BookSearch
+    categories:
+    - text
+    - development
+    - gaming
+  book-text:
+    importName: BookText
+    categories:
+    - text
+    - gaming
+  book-type:
+    importName: BookType
+    categories:
+    - text
+    - design
+    - gaming
+  book-up-2:
+    importName: BookUp2
+    categories:
+    - development
+  book-up:
+    importName: BookUp
+    categories:
+    - development
+  book-user:
+    importName: BookUser
+    categories:
+    - account
+    - connectivity
+    - communication
+    - social
+  book-x:
+    importName: BookX
+    categories:
+    - text
+    - gaming
+  book:
+    importName: Book
+    categories:
+    - text
+    - development
+    - gaming
+  bookmark-check:
+    importName: BookmarkCheck
+    categories:
+    - account
+  bookmark-minus:
+    importName: BookmarkMinus
+    categories:
+    - account
+  bookmark-off:
+    importName: BookmarkOff
+    categories:
+    - account
+  bookmark-plus:
+    importName: BookmarkPlus
+    categories:
+    - account
+  bookmark-x:
+    importName: BookmarkX
+    categories:
+    - account
+  bookmark:
+    importName: Bookmark
+    categories:
+    - account
+  boom-box:
+    importName: BoomBox
+    categories:
+    - devices
+    - multimedia
+    - social
+  bot-message-square:
+    importName: BotMessageSquare
+    categories:
+    - development
+    - social
+  bot-off:
+    importName: BotOff
+    categories:
+    - development
+    - social
+  bot:
+    importName: Bot
+    categories:
+    - development
+    - social
+  bottle-wine:
+    importName: BottleWine
+    categories:
+    - food-beverage
+  bow-arrow:
+    importName: BowArrow
+    categories:
+    - gaming
+    - tools
+  box:
+    importName: Box
+    categories:
+    - shapes
+    - gaming
+    - development
+    - math
+  boxes:
+    importName: Boxes
+    categories:
+    - shapes
+    - gaming
+    - development
+  braces:
+    importName: Braces
+    categories:
+    - development
+    - files
+  brackets:
+    importName: Brackets
+    categories:
+    - development
+    - files
+  brain-circuit:
+    importName: BrainCircuit
+    categories:
+    - science
+    - development
+  brain-cog:
+    importName: BrainCog
+    categories:
+    - science
+    - development
+  brain:
+    importName: Brain
+    categories:
+    - medical
+    - science
+  brick-wall-fire:
+    importName: BrickWallFire
+    categories:
+    - security
+    - home
+    - connectivity
+  brick-wall-shield:
+    importName: BrickWallShield
+    categories:
+    - security
+    - home
+    - connectivity
+  brick-wall:
+    importName: BrickWall
+    categories:
+    - buildings
+    - home
+  briefcase-business:
+    importName: BriefcaseBusiness
+    categories:
+    - transportation
+  briefcase-conveyor-belt:
+    importName: BriefcaseConveyorBelt
+    categories:
+    - travel
+    - transportation
+  briefcase-medical:
+    importName: BriefcaseMedical
+    categories:
+    - medical
+    - transportation
+  briefcase:
+    importName: Briefcase
+    categories:
+    - transportation
+  bring-to-front:
+    importName: BringToFront
+    categories:
+    - design
+    - layout
+  broccoli:
+    importName: Broccoli
+    categories:
+    - food-beverage
+  brush-cleaning:
+    importName: BrushCleaning
+    categories:
+    - home
+    - tools
+    - design
+  brush:
+    importName: Brush
+    categories:
+    - text
+    - design
+    - tools
+  bubbles:
+    importName: Bubbles
+    categories:
+    - weather
+  bug-off:
+    importName: BugOff
+    categories:
+    - development
+    - animals
+  bug-play:
+    importName: BugPlay
+    categories:
+    - development
+    - animals
+  bug:
+    importName: Bug
+    categories:
+    - development
+    - animals
+  building-2:
+    importName: Building2
+    categories:
+    - account
+    - buildings
+  building:
+    importName: Building
+    categories:
+    - account
+    - buildings
+  bus-front:
+    importName: BusFront
+    categories:
+    - transportation
+  bus:
+    importName: Bus
+    categories:
+    - transportation
+  cable-car:
+    importName: CableCar
+    categories:
+    - transportation
+    - travel
+  cable:
+    importName: Cable
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+  cake-slice:
+    importName: CakeSlice
+    categories:
+    - food-beverage
+    - social
+  cake:
+    importName: Cake
+    categories:
+    - food-beverage
+    - social
+    - account
+  calculator:
+    importName: Calculator
+    categories:
+    - math
+    - devices
+  calendar-1:
+    importName: Calendar1
+    categories:
+    - time
+  calendar-arrow-down:
+    importName: CalendarArrowDown
+    categories:
+    - time
+  calendar-arrow-up:
+    importName: CalendarArrowUp
+    categories:
+    - time
+  calendar-check-2:
+    importName: CalendarCheck2
+    categories:
+    - time
+  calendar-check:
+    importName: CalendarCheck
+    categories:
+    - time
+  calendar-clock:
+    importName: CalendarClock
+    categories:
+    - time
+  calendar-cog:
+    importName: CalendarCog
+    categories:
+    - time
+  calendar-days:
+    importName: CalendarDays
+    categories:
+    - time
+  calendar-fold:
+    importName: CalendarFold
+    categories:
+    - time
+    - files
+  calendar-heart:
+    importName: CalendarHeart
+    categories:
+    - time
+  calendar-minus-2:
+    importName: CalendarMinus2
+    categories:
+    - time
+  calendar-minus:
+    importName: CalendarMinus
+    categories:
+    - time
+  calendar-off:
+    importName: CalendarOff
+    categories:
+    - time
+  calendar-plus-2:
+    importName: CalendarPlus2
+    categories:
+    - time
+  calendar-plus:
+    importName: CalendarPlus
+    categories:
+    - time
+  calendar-range:
+    importName: CalendarRange
+    categories:
+    - time
+  calendar-search:
+    importName: CalendarSearch
+    categories:
+    - time
+  calendar-sync:
+    importName: CalendarSync
+    categories:
+    - arrows
+    - time
+  calendar-x-2:
+    importName: CalendarX2
+    categories:
+    - time
+  calendar-x:
+    importName: CalendarX
+    categories:
+    - time
+  calendar:
+    importName: Calendar
+    categories:
+    - time
+  calendars:
+    importName: Calendars
+    categories:
+    - time
+  camera-off:
+    importName: CameraOff
+    categories:
+    - photography
+    - devices
+    - communication
+  camera:
+    importName: Camera
+    categories:
+    - photography
+    - devices
+    - communication
+  candy-cane:
+    importName: CandyCane
+    categories:
+    - food-beverage
+  candy-off:
+    importName: CandyOff
+    categories:
+    - food-beverage
+  candy:
+    importName: Candy
+    categories:
+    - food-beverage
+  cannabis-off:
+    importName: CannabisOff
+    categories:
+    - nature
+  cannabis:
+    importName: Cannabis
+    categories:
+    - nature
+  captions-off:
+    importName: CaptionsOff
+    categories:
+    - multimedia
+  captions:
+    importName: Captions
+    categories:
+    - multimedia
+  car-front:
+    importName: CarFront
+    categories:
+    - transportation
+  car-taxi-front:
+    importName: CarTaxiFront
+    categories:
+    - transportation
+  car:
+    importName: Car
+    categories:
+    - transportation
+  caravan:
+    importName: Caravan
+    categories:
+    - transportation
+    - travel
+    - nature
+  card-sim:
+    importName: CardSim
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+    - devices
+  carrot:
+    importName: Carrot
+    categories:
+    - food-beverage
+  case-lower:
+    importName: CaseLower
+    categories:
+    - text
+    - development
+  case-sensitive:
+    importName: CaseSensitive
+    categories:
+    - text
+  case-upper:
+    importName: CaseUpper
+    categories:
+    - text
+    - development
+  cassette-tape:
+    importName: CassetteTape
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+    - communication
+    - files
+  cast:
+    importName: Cast
+    categories:
+    - devices
+    - connectivity
+  castle:
+    importName: Castle
+    categories:
+    - buildings
+    - gaming
+    - navigation
+  cat:
+    importName: Cat
+    categories:
+    - animals
+  cctv-off:
+    importName: CctvOff
+    categories:
+    - security
+    - devices
+    - communication
+    - connectivity
+    - photography
+  cctv:
+    importName: Cctv
+    categories:
+    - security
+    - devices
+    - communication
+    - connectivity
+    - photography
+  chart-area:
+    importName: ChartArea
+    categories:
+    - charts
+  chart-bar-big:
+    importName: ChartBarBig
+    categories:
+    - charts
+  chart-bar-decreasing:
+    importName: ChartBarDecreasing
+    categories:
+    - charts
+  chart-bar-increasing:
+    importName: ChartBarIncreasing
+    categories:
+    - charts
+  chart-bar-stacked:
+    importName: ChartBarStacked
+    categories:
+    - charts
+  chart-bar:
+    importName: ChartBar
+    categories:
+    - charts
+  chart-candlestick:
+    importName: ChartCandlestick
+    categories:
+    - charts
+    - finance
+  chart-column-big:
+    importName: ChartColumnBig
+    categories:
+    - charts
+  chart-column-decreasing:
+    importName: ChartColumnDecreasing
+    categories:
+    - charts
+  chart-column-increasing:
+    importName: ChartColumnIncreasing
+    categories:
+    - charts
+  chart-column-stacked:
+    importName: ChartColumnStacked
+    categories:
+    - charts
+  chart-column:
+    importName: ChartColumn
+    categories:
+    - charts
+  chart-gantt:
+    importName: ChartGantt
+    categories:
+    - charts
+  chart-line:
+    importName: ChartLine
+    categories:
+    - charts
+  chart-network:
+    importName: ChartNetwork
+    categories:
+    - charts
+  chart-no-axes-column-decreasing:
+    importName: ChartNoAxesColumnDecreasing
+    categories:
+    - charts
+  chart-no-axes-column-increasing:
+    importName: ChartNoAxesColumnIncreasing
+    categories:
+    - charts
+  chart-no-axes-column:
+    importName: ChartNoAxesColumn
+    categories:
+    - charts
+  chart-no-axes-combined:
+    importName: ChartNoAxesCombined
+    categories:
+    - charts
+  chart-no-axes-gantt:
+    importName: ChartNoAxesGantt
+    categories:
+    - charts
+    - time
+    - development
+    - design
+  chart-pie:
+    importName: ChartPie
+    categories:
+    - charts
+    - files
+  chart-scatter:
+    importName: ChartScatter
+    categories:
+    - charts
+  chart-spline:
+    importName: ChartSpline
+    categories:
+    - charts
+  check-check:
+    importName: CheckCheck
+    categories:
+    - notifications
+  check-line:
+    importName: CheckLine
+    categories:
+    - notifications
+  check:
+    importName: Check
+    categories:
+    - notifications
+  chef-hat:
+    importName: ChefHat
+    categories:
+    - food-beverage
+  cherry:
+    importName: Cherry
+    categories:
+    - food-beverage
+  chess-bishop:
+    importName: ChessBishop
+    categories:
+    - gaming
+    - emoji
+  chess-king:
+    importName: ChessKing
+    categories:
+    - gaming
+    - emoji
+  chess-knight:
+    importName: ChessKnight
+    categories:
+    - gaming
+    - emoji
+  chess-pawn:
+    importName: ChessPawn
+    categories:
+    - gaming
+    - emoji
+  chess-queen:
+    importName: ChessQueen
+    categories:
+    - gaming
+    - emoji
+  chess-rook:
+    importName: ChessRook
+    categories:
+    - gaming
+    - emoji
+  chevron-down:
+    importName: ChevronDown
+    categories:
+    - arrows
+    - gaming
+  chevron-first:
+    importName: ChevronFirst
+    categories:
+    - arrows
+    - multimedia
+  chevron-last:
+    importName: ChevronLast
+    categories:
+    - arrows
+    - multimedia
+  chevron-left:
+    importName: ChevronLeft
+    categories:
+    - arrows
+  chevron-right:
+    importName: ChevronRight
+    categories:
+    - arrows
+    - math
+    - development
+  chevron-up:
+    importName: ChevronUp
+    categories:
+    - arrows
+    - math
+    - gaming
+  chevrons-down-up:
+    importName: ChevronsDownUp
+    categories:
+    - arrows
+  chevrons-down:
+    importName: ChevronsDown
+    categories:
+    - arrows
+    - gaming
+  chevrons-left-right-ellipsis:
+    importName: ChevronsLeftRightEllipsis
+    categories:
+    - communication
+    - devices
+    - multimedia
+    - gaming
+  chevrons-left-right:
+    importName: ChevronsLeftRight
+    categories:
+    - arrows
+  chevrons-left:
+    importName: ChevronsLeft
+    categories:
+    - arrows
+    - gaming
+  chevrons-right-left:
+    importName: ChevronsRightLeft
+    categories:
+    - arrows
+  chevrons-right:
+    importName: ChevronsRight
+    categories:
+    - arrows
+    - gaming
+  chevrons-up-down:
+    importName: ChevronsUpDown
+    categories:
+    - arrows
+  chevrons-up:
+    importName: ChevronsUp
+    categories:
+    - arrows
+    - gaming
+  church:
+    importName: Church
+    categories:
+    - buildings
+    - navigation
+  cigarette-off:
+    importName: CigaretteOff
+    categories:
+    - travel
+    - transportation
+    - medical
+  cigarette:
+    importName: Cigarette
+    categories:
+    - travel
+    - transportation
+    - medical
+  circle-alert:
+    importName: CircleAlert
+    categories:
+    - notifications
+  circle-arrow-down:
+    importName: CircleArrowDown
+    categories:
+    - arrows
+    - gaming
+  circle-arrow-left:
+    importName: CircleArrowLeft
+    categories:
+    - arrows
+    - gaming
+  circle-arrow-out-down-left:
+    importName: CircleArrowOutDownLeft
+    categories:
+    - arrows
+  circle-arrow-out-down-right:
+    importName: CircleArrowOutDownRight
+    categories:
+    - arrows
+  circle-arrow-out-up-left:
+    importName: CircleArrowOutUpLeft
+    categories:
+    - arrows
+    - development
+  circle-arrow-out-up-right:
+    importName: CircleArrowOutUpRight
+    categories:
+    - arrows
+  circle-arrow-right:
+    importName: CircleArrowRight
+    categories:
+    - arrows
+    - gaming
+  circle-arrow-up:
+    importName: CircleArrowUp
+    categories:
+    - arrows
+    - gaming
+  circle-check-big:
+    importName: CircleCheckBig
+    categories:
+    - notifications
+  circle-check:
+    importName: CircleCheck
+    categories:
+    - notifications
+  circle-chevron-down:
+    importName: CircleChevronDown
+    categories:
+    - arrows
+  circle-chevron-left:
+    importName: CircleChevronLeft
+    categories:
+    - arrows
+  circle-chevron-right:
+    importName: CircleChevronRight
+    categories:
+    - arrows
+  circle-chevron-up:
+    importName: CircleChevronUp
+    categories:
+    - arrows
+  circle-dashed:
+    importName: CircleDashed
+    categories:
+    - development
+    - shapes
+  circle-divide:
+    importName: CircleDivide
+    categories:
+    - math
+  circle-dollar-sign:
+    importName: CircleDollarSign
+    categories:
+    - finance
+  circle-dot-dashed:
+    importName: CircleDotDashed
+    categories:
+    - development
+    - shapes
+  circle-dot:
+    importName: CircleDot
+    categories:
+    - development
+    - shapes
+  circle-ellipsis:
+    importName: CircleEllipsis
+    categories:
+    - layout
+    - development
+  circle-equal:
+    importName: CircleEqual
+    categories:
+    - math
+  circle-euro:
+    importName: CircleEuro
+    categories:
+    - shopping
+    - finance
+  circle-fading-arrow-up:
+    importName: CircleFadingArrowUp
+    categories:
+    - arrows
+    - development
+  circle-fading-plus:
+    importName: CircleFadingPlus
+    categories:
+    - communication
+    - social
+  circle-gauge:
+    importName: CircleGauge
+    categories:
+    - transportation
+    - sports
+    - science
+  circle-minus:
+    importName: CircleMinus
+    categories:
+    - math
+  circle-off:
+    importName: CircleOff
+    categories:
+    - shapes
+  circle-parking-off:
+    importName: CircleParkingOff
+    categories:
+    - transportation
+    - navigation
+  circle-parking:
+    importName: CircleParking
+    categories:
+    - transportation
+    - navigation
+  circle-pause:
+    importName: CirclePause
+    categories:
+    - multimedia
+  circle-percent:
+    importName: CirclePercent
+    categories:
+    - social
+    - finance
+    - shopping
+    - math
+  circle-pile:
+    importName: CirclePile
+    categories:
+    - shapes
+  circle-play:
+    importName: CirclePlay
+    categories:
+    - multimedia
+  circle-plus:
+    importName: CirclePlus
+    categories:
+    - math
+    - development
+    - cursors
+    - gaming
+  circle-pound-sterling:
+    importName: CirclePoundSterling
+    categories:
+    - finance
+  circle-power:
+    importName: CirclePower
+    categories:
+    - connectivity
+  circle-question-mark:
+    importName: CircleQuestionMark
+    categories:
+    - accessibility
+    - text
+    - notifications
+  circle-slash-2:
+    importName: CircleSlash2
+    categories:
+    - shapes
+    - math
+    - development
+  circle-slash:
+    importName: CircleSlash
+    categories:
+    - development
+    - math
+  circle-small:
+    importName: CircleSmall
+    categories:
+    - shapes
+    - medical
+  circle-star:
+    importName: CircleStar
+    categories:
+    - sports
+    - gaming
+  circle-stop:
+    importName: CircleStop
+    categories:
+    - multimedia
+  circle-user-round:
+    importName: CircleUserRound
+    categories:
+    - account
+  circle-user:
+    importName: CircleUser
+    categories:
+    - account
+  circle-x:
+    importName: CircleX
+    categories:
+    - math
+    - development
+  circle:
+    importName: Circle
+    categories:
+    - shapes
+  circuit-board:
+    importName: CircuitBoard
+    categories:
+    - science
+    - development
+  citrus:
+    importName: Citrus
+    categories:
+    - food-beverage
+  clapperboard:
+    importName: Clapperboard
+    categories:
+    - multimedia
+  clipboard-check:
+    importName: ClipboardCheck
+    categories:
+    - text
+  clipboard-clock:
+    importName: ClipboardClock
+    categories:
+    - time
+    - text
+  clipboard-copy:
+    importName: ClipboardCopy
+    categories:
+    - text
+    - arrows
+  clipboard-list:
+    importName: ClipboardList
+    categories:
+    - text
+  clipboard-minus:
+    importName: ClipboardMinus
+    categories:
+    - text
+    - medical
+  clipboard-paste:
+    importName: ClipboardPaste
+    categories:
+    - text
+    - arrows
+  clipboard-pen-line:
+    importName: ClipboardPenLine
+    categories:
+    - text
+  clipboard-pen:
+    importName: ClipboardPen
+    categories:
+    - text
+  clipboard-plus:
+    importName: ClipboardPlus
+    categories:
+    - text
+    - medical
+  clipboard-type:
+    importName: ClipboardType
+    categories:
+    - text
+  clipboard-x:
+    importName: ClipboardX
+    categories:
+    - text
+  clipboard:
+    importName: Clipboard
+    categories:
+    - text
+  clock-1:
+    importName: Clock1
+    categories:
+    - time
+  clock-10:
+    importName: Clock10
+    categories:
+    - time
+  clock-11:
+    importName: Clock11
+    categories:
+    - time
+  clock-12:
+    importName: Clock12
+    categories:
+    - time
+  clock-2:
+    importName: Clock2
+    categories:
+    - time
+  clock-3:
+    importName: Clock3
+    categories:
+    - time
+  clock-4:
+    importName: Clock4
+    categories:
+    - time
+  clock-5:
+    importName: Clock5
+    categories:
+    - time
+  clock-6:
+    importName: Clock6
+    categories:
+    - time
+  clock-7:
+    importName: Clock7
+    categories:
+    - time
+  clock-8:
+    importName: Clock8
+    categories:
+    - time
+  clock-9:
+    importName: Clock9
+    categories:
+    - time
+  clock-alert:
+    importName: ClockAlert
+    categories:
+    - time
+  clock-arrow-down:
+    importName: ClockArrowDown
+    categories:
+    - time
+  clock-arrow-left:
+    importName: ClockArrowLeft
+    categories:
+    - time
+  clock-arrow-right:
+    importName: ClockArrowRight
+    categories:
+    - time
+    - people
+    - arrows
+  clock-arrow-up:
+    importName: ClockArrowUp
+    categories:
+    - time
+  clock-check:
+    importName: ClockCheck
+    categories:
+    - time
+  clock-fading:
+    importName: ClockFading
+    categories:
+    - time
+  clock-plus:
+    importName: ClockPlus
+    categories:
+    - time
+  clock:
+    importName: Clock
+    categories:
+    - time
+  closed-caption:
+    importName: ClosedCaption
+    categories:
+    - accessibility
+    - multimedia
+  cloud-alert:
+    importName: CloudAlert
+    categories:
+    - development
+  cloud-backup:
+    importName: CloudBackup
+    categories:
+    - arrows
+    - files
+  cloud-check:
+    importName: CloudCheck
+    categories:
+    - development
+  cloud-cog:
+    importName: CloudCog
+    categories:
+    - development
+  cloud-download:
+    importName: CloudDownload
+    categories:
+    - arrows
+    - files
+  cloud-drizzle:
+    importName: CloudDrizzle
+    categories:
+    - weather
+  cloud-fog:
+    importName: CloudFog
+    categories:
+    - weather
+  cloud-hail:
+    importName: CloudHail
+    categories:
+    - weather
+  cloud-lightning:
+    importName: CloudLightning
+    categories:
+    - weather
+  cloud-moon-rain:
+    importName: CloudMoonRain
+    categories:
+    - weather
+  cloud-moon:
+    importName: CloudMoon
+    categories:
+    - weather
+  cloud-off:
+    importName: CloudOff
+    categories:
+    - connectivity
+    - weather
+  cloud-rain-wind:
+    importName: CloudRainWind
+    categories:
+    - weather
+  cloud-rain:
+    importName: CloudRain
+    categories:
+    - weather
+  cloud-snow:
+    importName: CloudSnow
+    categories:
+    - weather
+  cloud-sun-rain:
+    importName: CloudSunRain
+    categories:
+    - weather
+  cloud-sun:
+    importName: CloudSun
+    categories:
+    - weather
+  cloud-sync:
+    importName: CloudSync
+    categories:
+    - arrows
+    - files
+  cloud-upload:
+    importName: CloudUpload
+    categories:
+    - arrows
+    - files
+  cloud:
+    importName: Cloud
+    categories:
+    - weather
+  cloudy:
+    importName: Cloudy
+    categories:
+    - weather
+  clover:
+    importName: Clover
+    categories:
+    - gaming
+  club:
+    importName: Club
+    categories:
+    - shapes
+    - gaming
+  code-xml:
+    importName: CodeXml
+    categories:
+    - text
+    - development
+  code:
+    importName: Code
+    categories:
+    - text
+    - development
+  coffee:
+    importName: Coffee
+    categories:
+    - food-beverage
+  cog:
+    importName: Cog
+    categories:
+    - account
+  coins:
+    importName: Coins
+    categories:
+    - gaming
+  columns-2:
+    importName: Columns2
+    categories:
+    - layout
+    - design
+    - text
+  columns-3-cog:
+    importName: Columns3Cog
+    categories:
+    - layout
+    - design
+  columns-3:
+    importName: Columns3
+    categories:
+    - layout
+    - design
+    - text
+  columns-4:
+    importName: Columns4
+    categories:
+    - layout
+    - design
+    - text
+    - security
+  combine:
+    importName: Combine
+    categories:
+    - development
+    - files
+  command:
+    importName: Command
+    categories:
+    - development
+  compass:
+    importName: Compass
+    categories:
+    - navigation
+    - travel
+  component:
+    importName: Component
+    categories:
+    - design
+    - development
+  computer:
+    importName: Computer
+    categories:
+    - devices
+    - development
+    - gaming
+  concierge-bell:
+    importName: ConciergeBell
+    categories:
+    - travel
+  cone:
+    importName: Cone
+    categories:
+    - shapes
+    - math
+  construction:
+    importName: Construction
+    categories:
+    - development
+  contact-round:
+    importName: ContactRound
+    categories:
+    - account
+    - connectivity
+    - communication
+    - social
+  contact:
+    importName: Contact
+    categories:
+    - account
+    - connectivity
+    - communication
+    - social
+  container:
+    importName: Container
+    categories:
+    - development
+    - transportation
+    - mail
+  contrast:
+    importName: Contrast
+    categories:
+    - photography
+    - accessibility
+    - design
+  cookie:
+    importName: Cookie
+    categories:
+    - account
+    - food-beverage
+  cooking-pot:
+    importName: CookingPot
+    categories:
+    - food-beverage
+    - home
+  copy-check:
+    importName: CopyCheck
+    categories:
+    - text
+    - notifications
+  copy-minus:
+    importName: CopyMinus
+    categories:
+    - text
+    - math
+  copy-plus:
+    importName: CopyPlus
+    categories:
+    - text
+    - math
+  copy-slash:
+    importName: CopySlash
+    categories:
+    - text
+    - development
+    - math
+  copy-x:
+    importName: CopyX
+    categories:
+    - notifications
+    - math
+  copy:
+    importName: Copy
+    categories:
+    - text
+  copyleft:
+    importName: Copyleft
+    categories:
+    - text
+  copyright:
+    importName: Copyright
+    categories:
+    - text
+  corner-down-left:
+    importName: CornerDownLeft
+    categories:
+    - arrows
+  corner-down-right:
+    importName: CornerDownRight
+    categories:
+    - arrows
+    - text
+    - development
+  corner-left-down:
+    importName: CornerLeftDown
+    categories:
+    - arrows
+  corner-left-up:
+    importName: CornerLeftUp
+    categories:
+    - arrows
+  corner-right-down:
+    importName: CornerRightDown
+    categories:
+    - arrows
+  corner-right-up:
+    importName: CornerRightUp
+    categories:
+    - arrows
+  corner-up-left:
+    importName: CornerUpLeft
+    categories:
+    - arrows
+  corner-up-right:
+    importName: CornerUpRight
+    categories:
+    - arrows
+  cpu:
+    importName: Cpu
+    categories:
+    - devices
+  creative-commons:
+    importName: CreativeCommons
+    categories:
+    - text
+  credit-card:
+    importName: CreditCard
+    categories:
+    - account
+    - finance
+  croissant:
+    importName: Croissant
+    categories:
+    - food-beverage
+  crop:
+    importName: Crop
+    categories:
+    - photography
+    - design
+  cross:
+    importName: Cross
+    categories:
+    - shapes
+  crosshair:
+    importName: Crosshair
+    categories:
+    - photography
+  crown:
+    importName: Crown
+    categories:
+    - gaming
+  cuboid:
+    importName: Cuboid
+    categories:
+    - shapes
+    - math
+    - food-beverage
+  cup-soda:
+    importName: CupSoda
+    categories:
+    - food-beverage
+  currency:
+    importName: Currency
+    categories:
+    - finance
+  cylinder:
+    importName: Cylinder
+    categories:
+    - shapes
+    - design
+    - math
+  dam:
+    importName: Dam
+    categories:
+    - buildings
+    - sustainability
+    - navigation
+  database-arrow-down:
+    importName: DatabaseArrowDown
+    categories:
+    - devices
+    - development
+  database-arrow-up:
+    importName: DatabaseArrowUp
+    categories:
+    - devices
+    - development
+  database-backup:
+    importName: DatabaseBackup
+    categories:
+    - devices
+    - arrows
+    - design
+    - development
+    - photography
+  database-check:
+    importName: DatabaseCheck
+    categories:
+    - devices
+    - development
+  database-minus:
+    importName: DatabaseMinus
+    categories:
+    - devices
+    - development
+  database-plus:
+    importName: DatabasePlus
+    categories:
+    - devices
+    - development
+  database-search:
+    importName: DatabaseSearch
+    categories:
+    - devices
+    - development
+  database-x:
+    importName: DatabaseX
+    categories:
+    - devices
+    - development
+  database-zap:
+    importName: DatabaseZap
+    categories:
+    - devices
+    - development
+  database:
+    importName: Database
+    categories:
+    - devices
+    - development
+  decimals-arrow-left:
+    importName: DecimalsArrowLeft
+    categories:
+    - design
+    - text
+    - arrows
+    - math
+  decimals-arrow-right:
+    importName: DecimalsArrowRight
+    categories:
+    - design
+    - text
+    - arrows
+    - math
+  delete:
+    importName: Delete
+    categories:
+    - text
+    - arrows
+  dessert:
+    importName: Dessert
+    categories:
+    - food-beverage
+  diameter:
+    importName: Diameter
+    categories:
+    - shapes
+    - math
+    - design
+    - tools
+  diamond-minus:
+    importName: DiamondMinus
+    categories:
+    - multimedia
+    - photography
+    - tools
+    - devices
+  diamond-percent:
+    importName: DiamondPercent
+    categories:
+    - social
+    - finance
+    - shopping
+    - math
+  diamond-plus:
+    importName: DiamondPlus
+    categories:
+    - multimedia
+    - photography
+    - tools
+    - devices
+  diamond:
+    importName: Diamond
+    categories:
+    - shapes
+    - gaming
+  dice-1:
+    importName: Dice1
+    categories:
+    - gaming
+  dice-2:
+    importName: Dice2
+    categories:
+    - gaming
+  dice-3:
+    importName: Dice3
+    categories:
+    - gaming
+  dice-4:
+    importName: Dice4
+    categories:
+    - gaming
+  dice-5:
+    importName: Dice5
+    categories:
+    - gaming
+  dice-6:
+    importName: Dice6
+    categories:
+    - gaming
+  dices:
+    importName: Dices
+    categories:
+    - gaming
+  diff:
+    importName: Diff
+    categories:
+    - development
+    - files
+  disc-2:
+    importName: Disc2
+    categories:
+    - devices
+    - multimedia
+  disc-3:
+    importName: Disc3
+    categories:
+    - devices
+    - multimedia
+  disc-album:
+    importName: DiscAlbum
+    categories:
+    - devices
+    - multimedia
+  disc:
+    importName: Disc
+    categories:
+    - devices
+    - multimedia
+  divide:
+    importName: Divide
+    categories:
+    - math
+    - development
+  dna-off:
+    importName: DnaOff
+    categories:
+    - medical
+    - food-beverage
+  dna:
+    importName: Dna
+    categories:
+    - medical
+  dock:
+    importName: Dock
+    categories:
+    - layout
+    - design
+    - development
+    - files
+  dog:
+    importName: Dog
+    categories:
+    - animals
+  dollar-sign:
+    importName: DollarSign
+    categories:
+    - finance
+  donut:
+    importName: Donut
+    categories:
+    - food-beverage
+  door-closed-locked:
+    importName: DoorClosedLocked
+    categories:
+    - home
+    - travel
+    - security
+  door-closed:
+    importName: DoorClosed
+    categories:
+    - home
+    - travel
+    - security
+  door-open:
+    importName: DoorOpen
+    categories:
+    - home
+    - travel
+    - security
+  dot:
+    importName: Dot
+    categories:
+    - shapes
+    - text
+  download:
+    importName: Download
+    categories:
+    - arrows
+    - files
+  drafting-compass:
+    importName: DraftingCompass
+    categories:
+    - math
+    - design
+    - tools
+  drama:
+    importName: Drama
+    categories:
+    - multimedia
+  drill:
+    importName: Drill
+    categories:
+    - tools
+    - home
+    - devices
+  drone:
+    importName: Drone
+    categories:
+    - transportation
+    - devices
+  droplet-off:
+    importName: DropletOff
+    categories:
+    - weather
+    - gaming
+  droplet:
+    importName: Droplet
+    categories:
+    - weather
+    - gaming
+  droplets:
+    importName: Droplets
+    categories:
+    - weather
+  drum:
+    importName: Drum
+    categories:
+    - multimedia
+    - devices
+  drumstick:
+    importName: Drumstick
+    categories:
+    - food-beverage
+  dumbbell:
+    importName: Dumbbell
+    categories:
+    - navigation
+    - sports
+  ear-off:
+    importName: EarOff
+    categories:
+    - medical
+    - accessibility
+  ear:
+    importName: Ear
+    categories:
+    - medical
+    - accessibility
+  earth-lock:
+    importName: EarthLock
+    categories:
+    - security
+    - development
+    - devices
+  earth:
+    importName: Earth
+    categories:
+    - navigation
+  eclipse:
+    importName: Eclipse
+    categories:
+    - science
+    - design
+    - development
+    - accessibility
+    - photography
+  egg-fried:
+    importName: EggFried
+    categories:
+    - food-beverage
+  egg-off:
+    importName: EggOff
+    categories:
+    - food-beverage
+  egg:
+    importName: Egg
+    categories:
+    - food-beverage
+    - animals
+  ellipse:
+    importName: Ellipse
+    categories:
+    - shapes
+  ellipsis-vertical:
+    importName: EllipsisVertical
+    categories:
+    - layout
+  ellipsis:
+    importName: Ellipsis
+    categories:
+    - layout
+    - development
+  equal-approximately:
+    importName: EqualApproximately
+    categories:
+    - math
+  equal-not:
+    importName: EqualNot
+    categories:
+    - math
+    - development
+  equal:
+    importName: Equal
+    categories:
+    - math
+    - development
+  eraser:
+    importName: Eraser
+    categories:
+    - text
+  ethernet-port:
+    importName: EthernetPort
+    categories:
+    - communication
+    - devices
+    - multimedia
+    - gaming
+  euro:
+    importName: Euro
+    categories:
+    - finance
+  ev-charger:
+    importName: EvCharger
+    categories:
+    - transportation
+    - navigation
+  expand:
+    importName: Expand
+    categories:
+    - text
+    - arrows
+  external-link:
+    importName: ExternalLink
+    categories:
+    - arrows
+    - text
+    - social
+  eye-closed:
+    importName: EyeClosed
+    categories:
+    - accessibility
+    - photography
+    - design
+    - security
+  eye-dashed:
+    importName: EyeDashed
+    categories:
+    - accessibility
+    - photography
+    - design
+    - security
+  eye-off:
+    importName: EyeOff
+    categories:
+    - accessibility
+    - photography
+    - design
+    - security
+  eye:
+    importName: Eye
+    categories:
+    - accessibility
+    - photography
+    - design
+    - security
+  factory:
+    importName: Factory
+    categories:
+    - buildings
+    - navigation
+  fan:
+    importName: Fan
+    categories:
+    - home
+  fast-forward:
+    importName: FastForward
+    categories:
+    - multimedia
+    - arrows
+  feather:
+    importName: Feather
+    categories:
+    - nature
+    - animals
+    - gaming
+    - text
+  fence:
+    importName: Fence
+    categories:
+    - home
+    - buildings
+  ferris-wheel:
+    importName: FerrisWheel
+    categories:
+    - navigation
+  file-archive:
+    importName: FileArchive
+    categories:
+    - files
+  file-axis-3d:
+    importName: FileAxis3d
+    categories:
+    - design
+    - files
+  file-badge:
+    importName: FileBadge
+    categories:
+    - files
+  file-box:
+    importName: FileBox
+    categories:
+    - files
+    - design
+    - development
+  file-braces-corner:
+    importName: FileBracesCorner
+    categories:
+    - files
+    - development
+  file-braces:
+    importName: FileBraces
+    categories:
+    - files
+    - development
+  file-chart-column-increasing:
+    importName: FileChartColumnIncreasing
+    categories:
+    - files
+  file-chart-column:
+    importName: FileChartColumn
+    categories:
+    - files
+  file-chart-line:
+    importName: FileChartLine
+    categories:
+    - files
+  file-chart-pie:
+    importName: FileChartPie
+    categories:
+    - files
+  file-check-corner:
+    importName: FileCheckCorner
+    categories:
+    - files
+  file-check:
+    importName: FileCheck
+    categories:
+    - files
+  file-clock:
+    importName: FileClock
+    categories:
+    - files
+    - time
+  file-code-corner:
+    importName: FileCodeCorner
+    categories:
+    - files
+    - development
+  file-code:
+    importName: FileCode
+    categories:
+    - files
+    - development
+  file-cog:
+    importName: FileCog
+    categories:
+    - files
+  file-diff:
+    importName: FileDiff
+    categories:
+    - files
+    - development
+  file-digit:
+    importName: FileDigit
+    categories:
+    - files
+    - development
+  file-down:
+    importName: FileDown
+    categories:
+    - files
+    - arrows
+  file-exclamation-point:
+    importName: FileExclamationPoint
+    categories:
+    - files
+    - notifications
+  file-headphone:
+    importName: FileHeadphone
+    categories:
+    - files
+  file-heart:
+    importName: FileHeart
+    categories:
+    - files
+  file-image:
+    importName: FileImage
+    categories:
+    - files
+  file-input:
+    importName: FileInput
+    categories:
+    - files
+    - arrows
+  file-key:
+    importName: FileKey
+    categories:
+    - files
+    - security
+  file-lock:
+    importName: FileLock
+    categories:
+    - files
+    - security
+  file-minus-corner:
+    importName: FileMinusCorner
+    categories:
+    - files
+  file-minus:
+    importName: FileMinus
+    categories:
+    - files
+  file-music:
+    importName: FileMusic
+    categories:
+    - files
+    - multimedia
+  file-output:
+    importName: FileOutput
+    categories:
+    - files
+    - arrows
+  file-pen-line:
+    importName: FilePenLine
+    categories:
+    - files
+  file-pen:
+    importName: FilePen
+    categories:
+    - files
+  file-play:
+    importName: FilePlay
+    categories:
+    - files
+  file-plus-corner:
+    importName: FilePlusCorner
+    categories:
+    - files
+  file-plus:
+    importName: FilePlus
+    categories:
+    - files
+  file-question-mark:
+    importName: FileQuestionMark
+    categories:
+    - files
+  file-scan:
+    importName: FileScan
+    categories:
+    - files
+  file-search-corner:
+    importName: FileSearchCorner
+    categories:
+    - files
+  file-search:
+    importName: FileSearch
+    categories:
+    - files
+  file-signal:
+    importName: FileSignal
+    categories:
+    - files
+  file-sliders:
+    importName: FileSliders
+    categories:
+    - files
+    - development
+  file-spreadsheet:
+    importName: FileSpreadsheet
+    categories:
+    - files
+  file-stack:
+    importName: FileStack
+    categories:
+    - files
+    - development
+  file-symlink:
+    importName: FileSymlink
+    categories:
+    - files
+  file-terminal:
+    importName: FileTerminal
+    categories:
+    - files
+    - development
+  file-text:
+    importName: FileText
+    categories:
+    - files
+    - text
+  file-type-corner:
+    importName: FileTypeCorner
+    categories:
+    - files
+    - text
+  file-type:
+    importName: FileType
+    categories:
+    - files
+    - text
+  file-up:
+    importName: FileUp
+    categories:
+    - files
+    - arrows
+  file-user:
+    importName: FileUser
+    categories:
+    - account
+    - files
+  file-video-camera:
+    importName: FileVideoCamera
+    categories:
+    - files
+  file-volume:
+    importName: FileVolume
+    categories:
+    - files
+  file-x-corner:
+    importName: FileXCorner
+    categories:
+    - files
+  file-x:
+    importName: FileX
+    categories:
+    - files
+  file:
+    importName: File
+    categories:
+    - files
+  files:
+    importName: Files
+    categories:
+    - files
+  film:
+    importName: Film
+    categories:
+    - photography
+    - multimedia
+  fingerprint-pattern:
+    importName: FingerprintPattern
+    categories:
+    - account
+    - security
+    - medical
+    - devices
+  fire-extinguisher:
+    importName: FireExtinguisher
+    categories:
+    - home
+    - tools
+    - travel
+  fish-off:
+    importName: FishOff
+    categories:
+    - food-beverage
+    - animals
+  fish-symbol:
+    importName: FishSymbol
+    categories:
+    - food-beverage
+    - animals
+  fish:
+    importName: Fish
+    categories:
+    - food-beverage
+    - animals
+  fishing-hook:
+    importName: FishingHook
+    categories:
+    - sports
+    - travel
+  fishing-rod:
+    importName: FishingRod
+    categories:
+    - sports
+    - travel
+  flag-off:
+    importName: FlagOff
+    categories:
+    - account
+    - social
+  flag-triangle-left:
+    importName: FlagTriangleLeft
+    categories:
+    - development
+    - navigation
+  flag-triangle-right:
+    importName: FlagTriangleRight
+    categories:
+    - development
+    - navigation
+  flag:
+    importName: Flag
+    categories:
+    - account
+    - social
+  flame-kindling:
+    importName: FlameKindling
+    categories:
+    - nature
+    - social
+    - gaming
+  flame:
+    importName: Flame
+    categories:
+    - weather
+    - social
+    - gaming
+  flashlight-off:
+    importName: FlashlightOff
+    categories:
+    - photography
+    - devices
+  flashlight:
+    importName: Flashlight
+    categories:
+    - photography
+    - devices
+  flask-conical-off:
+    importName: FlaskConicalOff
+    categories:
+    - science
+    - gaming
+  flask-conical:
+    importName: FlaskConical
+    categories:
+    - science
+    - gaming
+  flask-round:
+    importName: FlaskRound
+    categories:
+    - science
+    - gaming
+  flip-horizontal-2:
+    importName: FlipHorizontal2
+    categories:
+    - design
+    - photography
+  flip-vertical-2:
+    importName: FlipVertical2
+    categories:
+    - design
+    - photography
+  flower-2:
+    importName: Flower2
+    categories:
+    - nature
+    - sustainability
+    - seasons
+  flower:
+    importName: Flower
+    categories:
+    - nature
+    - gaming
+    - sustainability
+  focus:
+    importName: Focus
+    categories:
+    - photography
+  fold-horizontal:
+    importName: FoldHorizontal
+    categories:
+    - arrows
+    - layout
+  fold-vertical:
+    importName: FoldVertical
+    categories:
+    - arrows
+    - layout
+  folder-archive:
+    importName: FolderArchive
+    categories:
+    - files
+  folder-bookmark:
+    importName: FolderBookmark
+    categories:
+    - files
+  folder-check:
+    importName: FolderCheck
+    categories:
+    - files
+  folder-clock:
+    importName: FolderClock
+    categories:
+    - files
+    - time
+  folder-closed:
+    importName: FolderClosed
+    categories:
+    - files
+  folder-code:
+    importName: FolderCode
+    categories:
+    - files
+    - development
+  folder-cog:
+    importName: FolderCog
+    categories:
+    - files
+  folder-dot:
+    importName: FolderDot
+    categories:
+    - files
+    - development
+  folder-down:
+    importName: FolderDown
+    categories:
+    - files
+    - arrows
+  folder-git-2:
+    importName: FolderGit2
+    categories:
+    - files
+  folder-git:
+    importName: FolderGit
+    categories:
+    - files
+  folder-heart:
+    importName: FolderHeart
+    categories:
+    - files
+  folder-input:
+    importName: FolderInput
+    categories:
+    - files
+    - arrows
+  folder-kanban:
+    importName: FolderKanban
+    categories:
+    - charts
+    - development
+    - design
+    - files
+  folder-key:
+    importName: FolderKey
+    categories:
+    - files
+    - security
+  folder-lock:
+    importName: FolderLock
+    categories:
+    - files
+    - security
+  folder-minus:
+    importName: FolderMinus
+    categories:
+    - files
+  folder-open-dot:
+    importName: FolderOpenDot
+    categories:
+    - files
+    - development
+  folder-open:
+    importName: FolderOpen
+    categories:
+    - files
+  folder-output:
+    importName: FolderOutput
+    categories:
+    - files
+    - arrows
+  folder-pen:
+    importName: FolderPen
+    categories:
+    - files
+  folder-plus:
+    importName: FolderPlus
+    categories:
+    - files
+  folder-root:
+    importName: FolderRoot
+    categories:
+    - files
+    - development
+  folder-search-2:
+    importName: FolderSearch2
+    categories:
+    - files
+  folder-search:
+    importName: FolderSearch
+    categories:
+    - files
+  folder-symlink:
+    importName: FolderSymlink
+    categories:
+    - files
+  folder-sync:
+    importName: FolderSync
+    categories:
+    - files
+    - arrows
+  folder-tree:
+    importName: FolderTree
+    categories:
+    - files
+  folder-up:
+    importName: FolderUp
+    categories:
+    - files
+    - arrows
+  folder-x:
+    importName: FolderX
+    categories:
+    - files
+  folder:
+    importName: Folder
+    categories:
+    - files
+  folders:
+    importName: Folders
+    categories:
+    - files
+  footprints:
+    importName: Footprints
+    categories:
+    - navigation
+  forklift:
+    importName: Forklift
+    categories:
+    - transportation
+  form:
+    importName: Form
+    categories:
+    - development
+  forward:
+    importName: Forward
+    categories:
+    - mail
+  frame:
+    importName: Frame
+    categories:
+    - design
+    - photography
+  frown:
+    importName: Frown
+    categories:
+    - emoji
+    - account
+  fuel:
+    importName: Fuel
+    categories:
+    - transportation
+    - navigation
+  fullscreen:
+    importName: Fullscreen
+    categories:
+    - layout
+    - multimedia
+    - design
+    - photography
+  funnel-plus:
+    importName: FunnelPlus
+    categories:
+    - layout
+  funnel-x:
+    importName: FunnelX
+    categories:
+    - layout
+  funnel:
+    importName: Funnel
+    categories:
+    - layout
+  gallery-horizontal-end:
+    importName: GalleryHorizontalEnd
+    categories:
+    - layout
+    - design
+    - development
+    - photography
+    - multimedia
+    - files
+  gallery-horizontal:
+    importName: GalleryHorizontal
+    categories:
+    - layout
+    - design
+    - development
+    - photography
+    - multimedia
+  gallery-thumbnails:
+    importName: GalleryThumbnails
+    categories:
+    - layout
+    - design
+    - development
+    - photography
+    - multimedia
+  gallery-vertical-end:
+    importName: GalleryVerticalEnd
+    categories:
+    - layout
+    - design
+    - development
+    - photography
+    - multimedia
+    - files
+  gallery-vertical:
+    importName: GalleryVertical
+    categories:
+    - layout
+    - design
+    - development
+    - photography
+    - multimedia
+  gamepad-2:
+    importName: Gamepad2
+    categories:
+    - gaming
+    - devices
+  gamepad-directional:
+    importName: GamepadDirectional
+    categories:
+    - gaming
+    - devices
+  gamepad:
+    importName: Gamepad
+    categories:
+    - gaming
+    - devices
+  gauge:
+    importName: Gauge
+    categories:
+    - transportation
+    - sports
+    - science
+  gavel:
+    importName: Gavel
+    categories:
+    - navigation
+    - tools
+  gem:
+    importName: Gem
+    categories:
+    - gaming
+    - development
+    - finance
+  georgian-lari:
+    importName: GeorgianLari
+    categories:
+    - finance
+  ghost:
+    importName: Ghost
+    categories:
+    - gaming
+  gift:
+    importName: Gift
+    categories:
+    - gaming
+    - account
+  git-branch-minus:
+    importName: GitBranchMinus
+    categories:
+    - development
+  git-branch-plus:
+    importName: GitBranchPlus
+    categories:
+    - development
+  git-branch:
+    importName: GitBranch
+    categories:
+    - development
+  git-commit-horizontal:
+    importName: GitCommitHorizontal
+    categories:
+    - development
+    - navigation
+  git-commit-vertical:
+    importName: GitCommitVertical
+    categories:
+    - development
+    - navigation
+  git-compare-arrows:
+    importName: GitCompareArrows
+    categories:
+    - development
+    - arrows
+  git-compare:
+    importName: GitCompare
+    categories:
+    - development
+  git-fork:
+    importName: GitFork
+    categories:
+    - development
+  git-graph:
+    importName: GitGraph
+    categories:
+    - development
+  git-merge-conflict:
+    importName: GitMergeConflict
+    categories:
+    - development
+  git-merge:
+    importName: GitMerge
+    categories:
+    - development
+  git-pull-request-arrow:
+    importName: GitPullRequestArrow
+    categories:
+    - development
+    - arrows
+  git-pull-request-closed:
+    importName: GitPullRequestClosed
+    categories:
+    - development
+  git-pull-request-create-arrow:
+    importName: GitPullRequestCreateArrow
+    categories:
+    - development
+    - arrows
+  git-pull-request-create:
+    importName: GitPullRequestCreate
+    categories:
+    - development
+  git-pull-request-draft:
+    importName: GitPullRequestDraft
+    categories:
+    - development
+  git-pull-request:
+    importName: GitPullRequest
+    categories:
+    - development
+  glass-water:
+    importName: GlassWater
+    categories:
+    - food-beverage
+  glasses:
+    importName: Glasses
+    categories:
+    - accessibility
+  globe-check:
+    importName: GlobeCheck
+    categories:
+    - navigation
+  globe-lock:
+    importName: GlobeLock
+    categories:
+    - security
+    - development
+    - devices
+  globe-off:
+    importName: GlobeOff
+    categories:
+    - navigation
+    - connectivity
+    - devices
+  globe-x:
+    importName: GlobeX
+    categories:
+    - connectivity
+    - devices
+    - navigation
+  globe:
+    importName: Globe
+    categories:
+    - navigation
+  goal:
+    importName: Goal
+    categories:
+    - gaming
+  gpu:
+    importName: Gpu
+    categories:
+    - devices
+    - gaming
+  graduation-cap:
+    importName: GraduationCap
+    categories:
+    - buildings
+  grape:
+    importName: Grape
+    categories:
+    - food-beverage
+  grid-2x2-check:
+    importName: Grid2x2Check
+    categories:
+    - text
+    - layout
+    - math
+  grid-2x2-plus:
+    importName: Grid2x2Plus
+    categories:
+    - text
+    - layout
+    - math
+  grid-2x2-x:
+    importName: Grid2x2X
+    categories:
+    - text
+    - layout
+    - math
+  grid-2x2:
+    importName: Grid2x2
+    categories:
+    - text
+    - layout
+    - design
+    - math
+  grid-3x2:
+    importName: Grid3x2
+    categories:
+    - text
+    - math
+    - layout
+    - design
+  grid-3x3:
+    importName: Grid3x3
+    categories:
+    - text
+    - layout
+    - design
+  grip-horizontal:
+    importName: GripHorizontal
+    categories:
+    - layout
+  grip-vertical:
+    importName: GripVertical
+    categories:
+    - layout
+  grip:
+    importName: Grip
+    categories:
+    - layout
+  group:
+    importName: Group
+    categories:
+    - files
+  guitar:
+    importName: Guitar
+    categories:
+    - multimedia
+  ham:
+    importName: Ham
+    categories:
+    - food-beverage
+  hamburger:
+    importName: Hamburger
+    categories:
+    - food-beverage
+  hammer:
+    importName: Hammer
+    categories:
+    - tools
+    - home
+  hand-coins:
+    importName: HandCoins
+    categories:
+    - finance
+    - account
+  hand-fist:
+    importName: HandFist
+    categories:
+    - social
+    - emoji
+    - communication
+    - sports
+  hand-grab:
+    importName: HandGrab
+    categories:
+    - cursors
+    - design
+    - layout
+  hand-heart:
+    importName: HandHeart
+    categories:
+    - social
+  hand-helping:
+    importName: HandHelping
+    categories:
+    - emoji
+  hand-metal:
+    importName: HandMetal
+    categories:
+    - emoji
+    - multimedia
+  hand-platter:
+    importName: HandPlatter
+    categories:
+    - food-beverage
+    - people
+  hand:
+    importName: Hand
+    categories:
+    - cursors
+    - accessibility
+  handbag:
+    importName: Handbag
+    categories:
+    - shopping
+    - transportation
+  handshake:
+    importName: Handshake
+    categories:
+    - account
+    - social
+    - communication
+    - finance
+    - security
+  hard-drive-download:
+    importName: HardDriveDownload
+    categories:
+    - development
+    - devices
+    - arrows
+    - files
+  hard-drive-upload:
+    importName: HardDriveUpload
+    categories:
+    - development
+    - devices
+    - arrows
+    - files
+  hard-drive:
+    importName: HardDrive
+    categories:
+    - development
+    - devices
+  hard-hat:
+    importName: HardHat
+    categories:
+    - tools
+  hash:
+    importName: Hash
+    categories:
+    - text
+    - social
+  hat-glasses:
+    importName: HatGlasses
+    categories:
+    - social
+    - account
+    - security
+  haze:
+    importName: Haze
+    categories:
+    - weather
+  hd:
+    importName: Hd
+    categories:
+    - devices
+    - multimedia
+  hdmi-port:
+    importName: HdmiPort
+    categories:
+    - devices
+    - multimedia
+    - gaming
+  heading-1:
+    importName: Heading1
+    categories:
+    - text
+  heading-2:
+    importName: Heading2
+    categories:
+    - text
+  heading-3:
+    importName: Heading3
+    categories:
+    - text
+  heading-4:
+    importName: Heading4
+    categories:
+    - text
+  heading-5:
+    importName: Heading5
+    categories:
+    - text
+  heading-6:
+    importName: Heading6
+    categories:
+    - text
+  heading:
+    importName: Heading
+    categories:
+    - text
+  headphone-off:
+    importName: HeadphoneOff
+    categories:
+    - multimedia
+    - connectivity
+    - communication
+    - devices
+    - gaming
+  headphones:
+    importName: Headphones
+    categories:
+    - multimedia
+    - connectivity
+    - devices
+    - files
+    - gaming
+  headset:
+    importName: Headset
+    categories:
+    - multimedia
+    - connectivity
+    - devices
+    - files
+    - gaming
+  heart-crack:
+    importName: HeartCrack
+    categories:
+    - emoji
+  heart-handshake:
+    importName: HeartHandshake
+    categories:
+    - emoji
+    - account
+    - security
+  heart-minus:
+    importName: HeartMinus
+    categories:
+    - medical
+    - account
+    - multimedia
+    - gaming
+    - social
+  heart-off:
+    importName: HeartOff
+    categories:
+    - social
+    - multimedia
+  heart-plus:
+    importName: HeartPlus
+    categories:
+    - medical
+    - account
+    - multimedia
+    - gaming
+    - social
+  heart-pulse:
+    importName: HeartPulse
+    categories:
+    - medical
+  heart-x:
+    importName: HeartX
+    categories:
+    - social
+    - multimedia
+    - design
+    - shapes
+  heart:
+    importName: Heart
+    categories:
+    - medical
+    - social
+    - multimedia
+    - emoji
+    - gaming
+    - shapes
+  heater:
+    importName: Heater
+    categories:
+    - home
+    - devices
+    - travel
+  helicopter:
+    importName: Helicopter
+    categories:
+    - transportation
+    - travel
+  hexagon:
+    importName: Hexagon
+    categories:
+    - shapes
+    - development
+  highlighter:
+    importName: Highlighter
+    categories:
+    - text
+    - design
+  hop-off:
+    importName: HopOff
+    categories:
+    - food-beverage
+  hop:
+    importName: Hop
+    categories:
+    - food-beverage
+  hospital:
+    importName: Hospital
+    categories:
+    - medical
+    - buildings
+    - navigation
+    - travel
+  hotel:
+    importName: Hotel
+    categories:
+    - buildings
+    - navigation
+    - travel
+  hourglass:
+    importName: Hourglass
+    categories:
+    - time
+    - gaming
+  house-heart:
+    importName: HouseHeart
+    categories:
+    - home
+    - buildings
+    - medical
+  house-plug:
+    importName: HousePlug
+    categories:
+    - buildings
+    - home
+    - sustainability
+  house-plus:
+    importName: HousePlus
+    categories:
+    - buildings
+    - medical
+  house-wifi:
+    importName: HouseWifi
+    categories:
+    - home
+    - buildings
+    - connectivity
+  house:
+    importName: House
+    categories:
+    - buildings
+    - home
+    - navigation
+  ice-cream-bowl:
+    importName: IceCreamBowl
+    categories:
+    - food-beverage
+  ice-cream-cone:
+    importName: IceCreamCone
+    categories:
+    - food-beverage
+  id-card-lanyard:
+    importName: IdCardLanyard
+    categories:
+    - security
+    - account
+  id-card:
+    importName: IdCard
+    categories:
+    - security
+    - account
+  image-down:
+    importName: ImageDown
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+  image-minus:
+    importName: ImageMinus
+    categories:
+    - photography
+    - multimedia
+    - files
+  image-off:
+    importName: ImageOff
+    categories:
+    - photography
+    - multimedia
+    - files
+  image-play:
+    importName: ImagePlay
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+  image-plus:
+    importName: ImagePlus
+    categories:
+    - photography
+    - multimedia
+    - files
+  image-up:
+    importName: ImageUp
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+  image-upscale:
+    importName: ImageUpscale
+    categories:
+    - photography
+    - multimedia
+  image:
+    importName: Image
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+  images:
+    importName: Images
+    categories:
+    - photography
+    - text
+    - multimedia
+    - files
+  import:
+    importName: Import
+    categories:
+    - arrows
+    - files
+  inbox:
+    importName: Inbox
+    categories:
+    - account
+    - mail
+  indian-rupee:
+    importName: IndianRupee
+    categories:
+    - finance
+  infinity:
+    importName: Infinity
+    categories:
+    - multimedia
+  info:
+    importName: Info
+    categories:
+    - accessibility
+    - notifications
+  inspection-panel:
+    importName: InspectionPanel
+    categories:
+    - tools
+  italic:
+    importName: Italic
+    categories:
+    - text
+  iteration-ccw:
+    importName: IterationCcw
+    categories:
+    - arrows
+    - design
+  iteration-cw:
+    importName: IterationCw
+    categories:
+    - arrows
+    - design
+  japanese-yen:
+    importName: JapaneseYen
+    categories:
+    - finance
+  joystick:
+    importName: Joystick
+    categories:
+    - gaming
+    - devices
+  kanban:
+    importName: Kanban
+    categories:
+    - charts
+    - development
+    - design
+  kayak:
+    importName: Kayak
+    categories:
+    - transportation
+  key-round:
+    importName: KeyRound
+    categories:
+    - security
+    - account
+  key-square:
+    importName: KeySquare
+    categories:
+    - security
+    - account
+  key:
+    importName: Key
+    categories:
+    - security
+    - account
+  keyboard-music:
+    importName: KeyboardMusic
+    categories:
+    - multimedia
+    - devices
+  keyboard-off:
+    importName: KeyboardOff
+    categories:
+    - devices
+    - text
+    - development
+  keyboard:
+    importName: Keyboard
+    categories:
+    - text
+    - devices
+    - development
+  lamp-ceiling:
+    importName: LampCeiling
+    categories:
+    - home
+  lamp-desk:
+    importName: LampDesk
+    categories:
+    - home
+  lamp-floor:
+    importName: LampFloor
+    categories:
+    - home
+  lamp-wall-down:
+    importName: LampWallDown
+    categories:
+    - home
+  lamp-wall-up:
+    importName: LampWallUp
+    categories:
+    - home
+  lamp:
+    importName: Lamp
+    categories:
+    - home
+  land-plot:
+    importName: LandPlot
+    categories:
+    - design
+    - tools
+    - math
+    - sports
+    - gaming
+  landmark:
+    importName: Landmark
+    categories:
+    - finance
+    - navigation
+    - buildings
+  languages:
+    importName: Languages
+    categories:
+    - text
+  laptop-minimal-check:
+    importName: LaptopMinimalCheck
+    categories:
+    - devices
+    - notifications
+  laptop-minimal:
+    importName: LaptopMinimal
+    categories:
+    - devices
+  laptop:
+    importName: Laptop
+    categories:
+    - devices
+  lasso-select:
+    importName: LassoSelect
+    categories:
+    - arrows
+    - design
+    - cursors
+  lasso:
+    importName: Lasso
+    categories:
+    - design
+    - cursors
+  laugh:
+    importName: Laugh
+    categories:
+    - emoji
+  layers-2:
+    importName: Layers2
+    categories:
+    - design
+    - layout
+  layers-minus:
+    importName: LayersMinus
+    categories:
+    - design
+    - layout
+  layers-plus:
+    importName: LayersPlus
+    categories:
+    - design
+    - layout
+  layers:
+    importName: Layers
+    categories:
+    - design
+    - layout
+  layout-dashboard:
+    importName: LayoutDashboard
+    categories:
+    - design
+    - layout
+  layout-freeform:
+    importName: LayoutFreeform
+    categories:
+    - design
+    - layout
+  layout-grid:
+    importName: LayoutGrid
+    categories:
+    - design
+    - layout
+  layout-list:
+    importName: LayoutList
+    categories:
+    - design
+    - layout
+    - photography
+    - text
+  layout-panel-left:
+    importName: LayoutPanelLeft
+    categories:
+    - design
+    - layout
+  layout-panel-top:
+    importName: LayoutPanelTop
+    categories:
+    - layout
+  layout-template:
+    importName: LayoutTemplate
+    categories:
+    - layout
+  leaf:
+    importName: Leaf
+    categories:
+    - nature
+    - sustainability
+    - seasons
+  leafy-green:
+    importName: LeafyGreen
+    categories:
+    - food-beverage
+    - emoji
+    - sustainability
+  lectern:
+    importName: Lectern
+    categories:
+    - communication
+    - multimedia
+  lens-concave:
+    importName: LensConcave
+    categories:
+    - science
+    - tools
+    - shapes
+  lens-convex:
+    importName: LensConvex
+    categories:
+    - science
+    - tools
+    - shapes
+  library-big:
+    importName: LibraryBig
+    categories:
+    - text
+    - photography
+    - multimedia
+    - navigation
+    - development
+  library:
+    importName: Library
+    categories:
+    - text
+    - photography
+    - multimedia
+    - navigation
+    - development
+  life-buoy:
+    importName: LifeBuoy
+    categories:
+    - accessibility
+    - medical
+  ligature:
+    importName: Ligature
+    categories:
+    - text
+  lightbulb-off:
+    importName: LightbulbOff
+    categories:
+    - photography
+  lightbulb:
+    importName: Lightbulb
+    categories:
+    - photography
+  line-dot-right-horizontal:
+    importName: LineDotRightHorizontal
+    categories:
+    - development
+    - navigation
+  line-squiggle:
+    importName: LineSquiggle
+    categories:
+    - shapes
+    - math
+    - design
+  line-style:
+    importName: LineStyle
+    categories:
+    - design
+    - tools
+  link-2-off:
+    importName: Link2Off
+    categories:
+    - text
+  link-2:
+    importName: Link2
+    categories:
+    - text
+    - account
+  link:
+    importName: Link
+    categories:
+    - text
+    - account
+  list-check:
+    importName: ListCheck
+    categories:
+    - text
+  list-checks:
+    importName: ListChecks
+    categories:
+    - text
+  list-chevrons-down-up:
+    importName: ListChevronsDownUp
+    categories:
+    - text
+    - arrows
+  list-chevrons-up-down:
+    importName: ListChevronsUpDown
+    categories:
+    - text
+    - arrows
+  list-collapse:
+    importName: ListCollapse
+    categories:
+    - text
+  list-end:
+    importName: ListEnd
+    categories:
+    - multimedia
+    - text
+  list-filter-plus:
+    importName: ListFilterPlus
+    categories:
+    - text
+    - layout
+  list-filter:
+    importName: ListFilter
+    categories:
+    - text
+  list-indent-decrease:
+    importName: ListIndentDecrease
+    categories:
+    - text
+    - development
+  list-indent-increase:
+    importName: ListIndentIncrease
+    categories:
+    - text
+    - development
+  list-minus:
+    importName: ListMinus
+    categories:
+    - multimedia
+    - text
+  list-music:
+    importName: ListMusic
+    categories:
+    - multimedia
+  list-ordered:
+    importName: ListOrdered
+    categories:
+    - text
+  list-plus:
+    importName: ListPlus
+    categories:
+    - multimedia
+    - text
+  list-restart:
+    importName: ListRestart
+    categories:
+    - multimedia
+    - text
+  list-sort-ascending:
+    importName: ListSortAscending
+    categories:
+    - text
+    - layout
+  list-sort-descending:
+    importName: ListSortDescending
+    categories:
+    - text
+    - layout
+  list-start:
+    importName: ListStart
+    categories:
+    - multimedia
+    - text
+  list-todo:
+    importName: ListTodo
+    categories:
+    - text
+  list-tree:
+    importName: ListTree
+    categories:
+    - files
+    - text
+    - layout
+  list-video:
+    importName: ListVideo
+    categories:
+    - multimedia
+  list-x:
+    importName: ListX
+    categories:
+    - multimedia
+    - text
+  list:
+    importName: List
+    categories:
+    - text
+  loader-circle:
+    importName: LoaderCircle
+    categories:
+    - cursors
+    - multimedia
+    - layout
+  loader-pinwheel:
+    importName: LoaderPinwheel
+    categories:
+    - cursors
+    - design
+  loader:
+    importName: Loader
+    categories:
+    - cursors
+    - multimedia
+    - layout
+    - design
+  locate-fixed:
+    importName: LocateFixed
+    categories:
+    - navigation
+  locate-off:
+    importName: LocateOff
+    categories:
+    - navigation
+  locate:
+    importName: Locate
+    categories:
+    - navigation
+  lock-keyhole-open:
+    importName: LockKeyholeOpen
+    categories:
+    - security
+  lock-keyhole:
+    importName: LockKeyhole
+    categories:
+    - security
+  lock-open:
+    importName: LockOpen
+    categories:
+    - security
+  lock:
+    importName: Lock
+    categories:
+    - security
+  log-in:
+    importName: LogIn
+    categories:
+    - arrows
+    - account
+  log-out:
+    importName: LogOut
+    categories:
+    - arrows
+    - account
+  logs:
+    importName: Logs
+    categories:
+    - text
+  lollipop:
+    importName: Lollipop
+    categories:
+    - food-beverage
+  luggage:
+    importName: Luggage
+    categories:
+    - travel
+    - transportation
+  magnet:
+    importName: Magnet
+    categories:
+    - design
+  mail-check:
+    importName: MailCheck
+    categories:
+    - mail
+  mail-minus:
+    importName: MailMinus
+    categories:
+    - mail
+  mail-open:
+    importName: MailOpen
+    categories:
+    - mail
+  mail-plus:
+    importName: MailPlus
+    categories:
+    - mail
+  mail-question-mark:
+    importName: MailQuestionMark
+    categories:
+    - mail
+  mail-search:
+    importName: MailSearch
+    categories:
+    - mail
+  mail-warning:
+    importName: MailWarning
+    categories:
+    - mail
+  mail-x:
+    importName: MailX
+    categories:
+    - mail
+  mail:
+    importName: Mail
+    categories:
+    - text
+    - account
+    - mail
+  mailbox:
+    importName: Mailbox
+    categories:
+    - mail
+  mails:
+    importName: Mails
+    categories:
+    - mail
+  map-minus:
+    importName: MapMinus
+    categories:
+    - navigation
+    - travel
+  map-pin-check-inside:
+    importName: MapPinCheckInside
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-check:
+    importName: MapPinCheck
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-house:
+    importName: MapPinHouse
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-minus-inside:
+    importName: MapPinMinusInside
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-minus:
+    importName: MapPinMinus
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-off:
+    importName: MapPinOff
+    categories:
+    - navigation
+    - travel
+  map-pin-pen:
+    importName: MapPinPen
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-plus-inside:
+    importName: MapPinPlusInside
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-plus:
+    importName: MapPinPlus
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-search:
+    importName: MapPinSearch
+    categories:
+    - text
+    - navigation
+    - travel
+    - account
+  map-pin-x-inside:
+    importName: MapPinXInside
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin-x:
+    importName: MapPinX
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pin:
+    importName: MapPin
+    categories:
+    - navigation
+    - travel
+    - account
+  map-pinned:
+    importName: MapPinned
+    categories:
+    - navigation
+    - travel
+    - account
+  map-plus:
+    importName: MapPlus
+    categories:
+    - navigation
+  map:
+    importName: Map
+    categories:
+    - text
+    - navigation
+  mars-stroke:
+    importName: MarsStroke
+    categories:
+    - medical
+  mars:
+    importName: Mars
+    categories:
+    - medical
+  martini:
+    importName: Martini
+    categories:
+    - food-beverage
+  maximize-2:
+    importName: Maximize2
+    categories:
+    - arrows
+    - layout
+    - design
+  maximize:
+    importName: Maximize
+    categories:
+    - layout
+    - design
+  medal:
+    importName: Medal
+    categories:
+    - sports
+    - gaming
+  megaphone-off:
+    importName: MegaphoneOff
+    categories:
+    - multimedia
+    - notifications
+  megaphone:
+    importName: Megaphone
+    categories:
+    - multimedia
+    - notifications
+  meh:
+    importName: Meh
+    categories:
+    - emoji
+  memory-stick:
+    importName: MemoryStick
+    categories:
+    - devices
+    - gaming
+  menu:
+    importName: Menu
+    categories:
+    - layout
+    - account
+  merge:
+    importName: Merge
+    categories:
+    - development
+    - arrows
+  message-circle-check:
+    importName: MessageCircleCheck
+    categories:
+    - social
+    - account
+  message-circle-code:
+    importName: MessageCircleCode
+    categories:
+    - development
+    - social
+  message-circle-dashed:
+    importName: MessageCircleDashed
+    categories:
+    - social
+  message-circle-heart:
+    importName: MessageCircleHeart
+    categories:
+    - social
+  message-circle-more:
+    importName: MessageCircleMore
+    categories:
+    - social
+  message-circle-off:
+    importName: MessageCircleOff
+    categories:
+    - social
+  message-circle-plus:
+    importName: MessageCirclePlus
+    categories:
+    - social
+  message-circle-question-mark:
+    importName: MessageCircleQuestionMark
+    categories:
+    - social
+  message-circle-reply:
+    importName: MessageCircleReply
+    categories:
+    - social
+  message-circle-warning:
+    importName: MessageCircleWarning
+    categories:
+    - social
+    - notifications
+  message-circle-x:
+    importName: MessageCircleX
+    categories:
+    - account
+    - social
+  message-circle:
+    importName: MessageCircle
+    categories:
+    - social
+  message-square-check:
+    importName: MessageSquareCheck
+    categories:
+    - social
+    - account
+  message-square-code:
+    importName: MessageSquareCode
+    categories:
+    - development
+    - social
+  message-square-dashed:
+    importName: MessageSquareDashed
+    categories:
+    - social
+  message-square-diff:
+    importName: MessageSquareDiff
+    categories:
+    - development
+    - files
+    - social
+  message-square-dot:
+    importName: MessageSquareDot
+    categories:
+    - social
+    - notifications
+  message-square-heart:
+    importName: MessageSquareHeart
+    categories:
+    - social
+  message-square-lock:
+    importName: MessageSquareLock
+    categories:
+    - social
+  message-square-more:
+    importName: MessageSquareMore
+    categories:
+    - social
+  message-square-off:
+    importName: MessageSquareOff
+    categories:
+    - social
+  message-square-plus:
+    importName: MessageSquarePlus
+    categories:
+    - social
+  message-square-quote:
+    importName: MessageSquareQuote
+    categories:
+    - social
+    - text
+  message-square-reply:
+    importName: MessageSquareReply
+    categories:
+    - social
+  message-square-share:
+    importName: MessageSquareShare
+    categories:
+    - social
+  message-square-text:
+    importName: MessageSquareText
+    categories:
+    - social
+  message-square-warning:
+    importName: MessageSquareWarning
+    categories:
+    - social
+    - notifications
+  message-square-x:
+    importName: MessageSquareX
+    categories:
+    - social
+  message-square:
+    importName: MessageSquare
+    categories:
+    - social
+  messages-square:
+    importName: MessagesSquare
+    categories:
+    - social
+  metronome:
+    importName: Metronome
+    categories:
+    - multimedia
+    - time
+  mic-audio-lines:
+    importName: MicAudioLines
+    categories:
+    - devices
+    - communication
+    - multimedia
+  mic-off:
+    importName: MicOff
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - multimedia
+  mic-signal:
+    importName: MicSignal
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - multimedia
+  mic-vocal:
+    importName: MicVocal
+    categories:
+    - devices
+    - multimedia
+  mic:
+    importName: Mic
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - multimedia
+  microchip:
+    importName: Microchip
+    categories:
+    - devices
+  microscope:
+    importName: Microscope
+    categories:
+    - science
+    - medical
+  microwave:
+    importName: Microwave
+    categories:
+    - food-beverage
+    - home
+  milestone:
+    importName: Milestone
+    categories:
+    - arrows
+    - navigation
+    - development
+    - gaming
+  milk-off:
+    importName: MilkOff
+    categories:
+    - food-beverage
+  milk:
+    importName: Milk
+    categories:
+    - food-beverage
+  minimize-2:
+    importName: Minimize2
+    categories:
+    - arrows
+    - layout
+    - design
+  minimize:
+    importName: Minimize
+    categories:
+    - layout
+    - design
+  minus:
+    importName: Minus
+    categories:
+    - math
+    - development
+    - text
+    - tools
+  mirror-rectangular:
+    importName: MirrorRectangular
+    categories:
+    - science
+    - home
+    - tools
+  mirror-round:
+    importName: MirrorRound
+    categories:
+    - science
+    - home
+    - tools
+  monitor-check:
+    importName: MonitorCheck
+    categories:
+    - connectivity
+    - devices
+  monitor-cloud:
+    importName: MonitorCloud
+    categories:
+    - connectivity
+    - devices
+    - development
+  monitor-cog:
+    importName: MonitorCog
+    categories:
+    - connectivity
+    - devices
+  monitor-dot:
+    importName: MonitorDot
+    categories:
+    - connectivity
+    - devices
+  monitor-down:
+    importName: MonitorDown
+    categories:
+    - connectivity
+    - devices
+  monitor-off:
+    importName: MonitorOff
+    categories:
+    - connectivity
+    - devices
+  monitor-pause:
+    importName: MonitorPause
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+  monitor-play:
+    importName: MonitorPlay
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+  monitor-smartphone:
+    importName: MonitorSmartphone
+    categories:
+    - connectivity
+    - devices
+  monitor-speaker:
+    importName: MonitorSpeaker
+    categories:
+    - connectivity
+    - devices
+  monitor-stop:
+    importName: MonitorStop
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+  monitor-up:
+    importName: MonitorUp
+    categories:
+    - connectivity
+    - devices
+  monitor-x:
+    importName: MonitorX
+    categories:
+    - connectivity
+    - devices
+  monitor:
+    importName: Monitor
+    categories:
+    - connectivity
+    - devices
+  moon-star:
+    importName: MoonStar
+    categories:
+    - accessibility
+    - weather
+  moon:
+    importName: Moon
+    categories:
+    - accessibility
+  mosque:
+    importName: Mosque
+    categories:
+    - buildings
+    - navigation
+    - travel
+  motorbike:
+    importName: Motorbike
+    categories:
+    - transportation
+  mountain-snow:
+    importName: MountainSnow
+    categories:
+    - nature
+  mountain:
+    importName: Mountain
+    categories:
+    - nature
+    - gaming
+  mouse-left:
+    importName: MouseLeft
+    categories:
+    - devices
+  mouse-off:
+    importName: MouseOff
+    categories:
+    - devices
+  mouse-pointer-2-off:
+    importName: MousePointer2Off
+    categories:
+    - arrows
+    - cursors
+  mouse-pointer-2:
+    importName: MousePointer2
+    categories:
+    - arrows
+    - cursors
+  mouse-pointer-ban:
+    importName: MousePointerBan
+    categories:
+    - arrows
+    - cursors
+  mouse-pointer-click:
+    importName: MousePointerClick
+    categories:
+    - arrows
+    - cursors
+  mouse-pointer:
+    importName: MousePointer
+    categories:
+    - arrows
+    - cursors
+  mouse-right:
+    importName: MouseRight
+    categories:
+    - devices
+  mouse:
+    importName: Mouse
+    categories:
+    - devices
+  move-3d:
+    importName: Move3d
+    categories:
+    - design
+  move-diagonal-2:
+    importName: MoveDiagonal2
+    categories:
+    - arrows
+    - cursors
+  move-diagonal:
+    importName: MoveDiagonal
+    categories:
+    - arrows
+    - cursors
+  move-down-left:
+    importName: MoveDownLeft
+    categories:
+    - arrows
+  move-down-right:
+    importName: MoveDownRight
+    categories:
+    - arrows
+  move-down:
+    importName: MoveDown
+    categories:
+    - arrows
+  move-horizontal:
+    importName: MoveHorizontal
+    categories:
+    - arrows
+    - cursors
+  move-left:
+    importName: MoveLeft
+    categories:
+    - arrows
+  move-right:
+    importName: MoveRight
+    categories:
+    - arrows
+  move-up-left:
+    importName: MoveUpLeft
+    categories:
+    - arrows
+  move-up-right:
+    importName: MoveUpRight
+    categories:
+    - arrows
+  move-up:
+    importName: MoveUp
+    categories:
+    - arrows
+  move-vertical:
+    importName: MoveVertical
+    categories:
+    - arrows
+    - cursors
+  move:
+    importName: Move
+    categories:
+    - arrows
+    - cursors
+  music-2:
+    importName: Music2
+    categories:
+    - multimedia
+    - files
+  music-3:
+    importName: Music3
+    categories:
+    - multimedia
+    - files
+  music-4:
+    importName: Music4
+    categories:
+    - multimedia
+    - files
+  music:
+    importName: Music
+    categories:
+    - multimedia
+    - files
+  navigation-2-off:
+    importName: Navigation2Off
+    categories:
+    - navigation
+  navigation-2:
+    importName: Navigation2
+    categories:
+    - navigation
+  navigation-off:
+    importName: NavigationOff
+    categories:
+    - navigation
+  navigation:
+    importName: Navigation
+    categories:
+    - navigation
+  network:
+    importName: Network
+    categories:
+    - development
+  newspaper:
+    importName: Newspaper
+    categories:
+    - multimedia
+    - communication
+  nfc:
+    importName: Nfc
+    categories:
+    - communication
+    - finance
+    - devices
+  non-binary:
+    importName: NonBinary
+    categories:
+    - medical
+  notebook-pen:
+    importName: NotebookPen
+    categories:
+    - text
+    - social
+  notebook-tabs:
+    importName: NotebookTabs
+    categories:
+    - account
+    - communication
+    - social
+  notebook-text:
+    importName: NotebookText
+    categories:
+    - text
+    - social
+  notebook:
+    importName: Notebook
+    categories:
+    - text
+    - communication
+    - social
+    - design
+  notepad-text-dashed:
+    importName: NotepadTextDashed
+    categories:
+    - text
+    - social
+  notepad-text:
+    importName: NotepadText
+    categories:
+    - text
+    - social
+  nut-off:
+    importName: NutOff
+    categories:
+    - food-beverage
+  nut:
+    importName: Nut
+    categories:
+    - food-beverage
+  octagon-alert:
+    importName: OctagonAlert
+    categories:
+    - notifications
+    - shapes
+  octagon-minus:
+    importName: OctagonMinus
+    categories:
+    - transportation
+  octagon-pause:
+    importName: OctagonPause
+    categories:
+    - multimedia
+    - shapes
+  octagon-x:
+    importName: OctagonX
+    categories:
+    - math
+    - notifications
+  octagon:
+    importName: Octagon
+    categories:
+    - shapes
+  omega:
+    importName: Omega
+    categories:
+    - math
+    - development
+    - text
+    - science
+  option:
+    importName: Option
+    categories:
+    - development
+  orbit:
+    importName: Orbit
+    categories:
+    - science
+  origami:
+    importName: Origami
+    categories:
+    - animals
+    - design
+  package-2:
+    importName: Package2
+    categories:
+    - files
+    - development
+  package-check:
+    importName: PackageCheck
+    categories:
+    - development
+  package-minus:
+    importName: PackageMinus
+    categories:
+    - development
+  package-open:
+    importName: PackageOpen
+    categories:
+    - files
+    - development
+  package-plus:
+    importName: PackagePlus
+    categories:
+    - development
+  package-search:
+    importName: PackageSearch
+    categories:
+    - files
+    - development
+  package-x:
+    importName: PackageX
+    categories:
+    - development
+  package:
+    importName: Package
+    categories:
+    - files
+    - development
+  paint-bucket:
+    importName: PaintBucket
+    categories:
+    - design
+    - tools
+  paint-roller:
+    importName: PaintRoller
+    categories:
+    - text
+    - design
+    - home
+    - tools
+  paintbrush-vertical:
+    importName: PaintbrushVertical
+    categories:
+    - text
+    - design
+    - photography
+    - home
+    - tools
+  paintbrush:
+    importName: Paintbrush
+    categories:
+    - text
+    - design
+    - photography
+    - home
+    - tools
+  palette:
+    importName: Palette
+    categories:
+    - text
+    - design
+    - photography
+  panda:
+    importName: Panda
+    categories:
+    - animals
+  panel-bottom-close:
+    importName: PanelBottomClose
+    categories:
+    - layout
+    - arrows
+  panel-bottom-dashed:
+    importName: PanelBottomDashed
+    categories:
+    - layout
+  panel-bottom-open:
+    importName: PanelBottomOpen
+    categories:
+    - layout
+    - arrows
+  panel-bottom:
+    importName: PanelBottom
+    categories:
+    - layout
+  panel-left-close:
+    importName: PanelLeftClose
+    categories:
+    - layout
+    - arrows
+  panel-left-dashed:
+    importName: PanelLeftDashed
+    categories:
+    - layout
+  panel-left-open:
+    importName: PanelLeftOpen
+    categories:
+    - layout
+    - arrows
+  panel-left-right-dashed:
+    importName: PanelLeftRightDashed
+    categories:
+    - layout
+  panel-left:
+    importName: PanelLeft
+    categories:
+    - layout
+  panel-right-close:
+    importName: PanelRightClose
+    categories:
+    - layout
+    - arrows
+  panel-right-dashed:
+    importName: PanelRightDashed
+    categories:
+    - layout
+  panel-right-open:
+    importName: PanelRightOpen
+    categories:
+    - layout
+    - arrows
+  panel-right:
+    importName: PanelRight
+    categories:
+    - layout
+  panel-top-bottom-dashed:
+    importName: PanelTopBottomDashed
+    categories:
+    - layout
+  panel-top-close:
+    importName: PanelTopClose
+    categories:
+    - layout
+    - arrows
+  panel-top-dashed:
+    importName: PanelTopDashed
+    categories:
+    - layout
+  panel-top-open:
+    importName: PanelTopOpen
+    categories:
+    - layout
+    - arrows
+  panel-top:
+    importName: PanelTop
+    categories:
+    - layout
+    - design
+    - development
+  panels-left-bottom:
+    importName: PanelsLeftBottom
+    categories:
+    - layout
+  panels-right-bottom:
+    importName: PanelsRightBottom
+    categories:
+    - layout
+  panels-top-left:
+    importName: PanelsTopLeft
+    categories:
+    - layout
+    - design
+    - development
+  paper-bag:
+    importName: PaperBag
+    categories:
+    - food-beverage
+    - shopping
+  paperclip:
+    importName: Paperclip
+    categories:
+    - text
+    - design
+    - files
+    - mail
+  parasol:
+    importName: Parasol
+    categories:
+    - travel
+    - weather
+  parentheses:
+    importName: Parentheses
+    categories:
+    - development
+    - files
+    - math
+  parking-meter:
+    importName: ParkingMeter
+    categories:
+    - transportation
+    - navigation
+  party-popper:
+    importName: PartyPopper
+    categories:
+    - emoji
+  pause:
+    importName: Pause
+    categories:
+    - multimedia
+  paw-print:
+    importName: PawPrint
+    categories:
+    - animals
+  pc-case:
+    importName: PcCase
+    categories:
+    - devices
+    - gaming
+  pen-line:
+    importName: PenLine
+    categories:
+    - text
+    - design
+    - tools
+  pen-off:
+    importName: PenOff
+    categories:
+    - text
+    - design
+    - tools
+  pen-tool:
+    importName: PenTool
+    categories:
+    - text
+    - design
+    - cursors
+  pen:
+    importName: Pen
+    categories:
+    - text
+    - design
+    - tools
+  pencil-line:
+    importName: PencilLine
+    categories:
+    - text
+    - design
+    - tools
+  pencil-off:
+    importName: PencilOff
+    categories:
+    - design
+    - cursors
+    - tools
+    - text
+  pencil-ruler:
+    importName: PencilRuler
+    categories:
+    - tools
+    - design
+    - layout
+    - text
+  pencil-sparkles:
+    importName: PencilSparkles
+    categories:
+    - design
+    - cursors
+    - tools
+    - text
+    - photography
+  pencil:
+    importName: Pencil
+    categories:
+    - design
+    - cursors
+    - tools
+    - text
+  pentagon:
+    importName: Pentagon
+    categories:
+    - shapes
+  percent:
+    importName: Percent
+    categories:
+    - math
+    - development
+    - finance
+    - shopping
+  person-standing:
+    importName: PersonStanding
+    categories:
+    - accessibility
+    - people
+  phi:
+    importName: Phi
+    categories:
+    - math
+    - science
+  philippine-peso:
+    importName: PhilippinePeso
+    categories:
+    - finance
+  phone-call:
+    importName: PhoneCall
+    categories:
+    - connectivity
+    - devices
+    - communication
+  phone-forwarded:
+    importName: PhoneForwarded
+    categories:
+    - arrows
+    - connectivity
+    - devices
+    - communication
+  phone-incoming:
+    importName: PhoneIncoming
+    categories:
+    - arrows
+    - connectivity
+    - devices
+    - communication
+  phone-missed:
+    importName: PhoneMissed
+    categories:
+    - connectivity
+    - devices
+    - communication
+  phone-off:
+    importName: PhoneOff
+    categories:
+    - connectivity
+    - devices
+    - communication
+  phone-outgoing:
+    importName: PhoneOutgoing
+    categories:
+    - arrows
+    - connectivity
+    - devices
+    - communication
+  phone:
+    importName: Phone
+    categories:
+    - text
+    - connectivity
+    - devices
+    - communication
+  pi:
+    importName: Pi
+    categories:
+    - development
+    - math
+  piano:
+    importName: Piano
+    categories:
+    - multimedia
+    - devices
+  pickaxe:
+    importName: Pickaxe
+    categories:
+    - tools
+    - gaming
+  picture-in-picture-2:
+    importName: PictureInPicture2
+    categories:
+    - multimedia
+  picture-in-picture:
+    importName: PictureInPicture
+    categories:
+    - multimedia
+  piggy-bank:
+    importName: PiggyBank
+    categories:
+    - finance
+  pilcrow-left:
+    importName: PilcrowLeft
+    categories:
+    - text
+  pilcrow-right:
+    importName: PilcrowRight
+    categories:
+    - text
+  pilcrow:
+    importName: Pilcrow
+    categories:
+    - text
+  pill-bottle:
+    importName: PillBottle
+    categories:
+    - medical
+  pill:
+    importName: Pill
+    categories:
+    - medical
+  pin-off:
+    importName: PinOff
+    categories:
+    - navigation
+  pin:
+    importName: Pin
+    categories:
+    - navigation
+    - account
+  pipette:
+    importName: Pipette
+    categories:
+    - text
+    - design
+    - science
+  pizza:
+    importName: Pizza
+    categories:
+    - food-beverage
+  plane-landing:
+    importName: PlaneLanding
+    categories:
+    - transportation
+    - travel
+  plane-takeoff:
+    importName: PlaneTakeoff
+    categories:
+    - transportation
+    - travel
+  plane:
+    importName: Plane
+    categories:
+    - transportation
+    - travel
+    - navigation
+  play-off:
+    importName: PlayOff
+    categories:
+    - multimedia
+  play:
+    importName: Play
+    categories:
+    - arrows
+    - multimedia
+  plug-2:
+    importName: Plug2
+    categories:
+    - devices
+    - development
+  plug-zap:
+    importName: PlugZap
+    categories:
+    - devices
+  plug:
+    importName: Plug
+    categories:
+    - devices
+    - development
+  plus:
+    importName: Plus
+    categories:
+    - math
+    - tools
+    - development
+    - text
+    - cursors
+    - gaming
+  pocket-knife:
+    importName: PocketKnife
+    categories:
+    - tools
+  podium:
+    importName: Podium
+    categories:
+    - sports
+    - gaming
+  pointer-off:
+    importName: PointerOff
+    categories:
+    - cursors
+  pointer:
+    importName: Pointer
+    categories:
+    - cursors
+  popcorn:
+    importName: Popcorn
+    categories:
+    - food-beverage
+    - multimedia
+  popsicle:
+    importName: Popsicle
+    categories:
+    - food-beverage
+  pound-sterling:
+    importName: PoundSterling
+    categories:
+    - finance
+  power-off:
+    importName: PowerOff
+    categories:
+    - connectivity
+  power:
+    importName: Power
+    categories:
+    - connectivity
+  presentation:
+    importName: Presentation
+    categories:
+    - multimedia
+    - photography
+    - devices
+    - communication
+    - design
+  printer-check:
+    importName: PrinterCheck
+    categories:
+    - devices
+  printer-x:
+    importName: PrinterX
+    categories:
+    - devices
+  printer:
+    importName: Printer
+    categories:
+    - devices
+  projector:
+    importName: Projector
+    categories:
+    - multimedia
+    - photography
+    - devices
+    - communication
+  proportions:
+    importName: Proportions
+    categories:
+    - layout
+    - design
+    - photography
+    - devices
+  puzzle:
+    importName: Puzzle
+    categories:
+    - development
+    - gaming
+  pyramid:
+    importName: Pyramid
+    categories:
+    - shapes
+    - math
+    - travel
+  qr-code:
+    importName: QrCode
+    categories:
+    - development
+    - social
+  quote:
+    importName: Quote
+    categories:
+    - text
+  rabbit:
+    importName: Rabbit
+    categories:
+    - animals
+  radar:
+    importName: Radar
+    categories:
+    - navigation
+    - security
+    - communication
+  radiation:
+    importName: Radiation
+    categories:
+    - science
+  radical:
+    importName: Radical
+    categories:
+    - development
+    - math
+  radio-off:
+    importName: RadioOff
+    categories:
+    - devices
+    - multimedia
+    - social
+  radio-receiver:
+    importName: RadioReceiver
+    categories:
+    - devices
+  radio-tower:
+    importName: RadioTower
+    categories:
+    - devices
+    - multimedia
+    - social
+  radio:
+    importName: Radio
+    categories:
+    - devices
+    - multimedia
+    - social
+  radius:
+    importName: Radius
+    categories:
+    - shapes
+    - math
+    - design
+    - tools
+  rainbow:
+    importName: Rainbow
+    categories:
+    - weather
+  rat:
+    importName: Rat
+    categories:
+    - animals
+  ratio:
+    importName: Ratio
+    categories:
+    - layout
+    - design
+    - photography
+  receipt-cent:
+    importName: ReceiptCent
+    categories:
+    - finance
+    - travel
+  receipt-euro:
+    importName: ReceiptEuro
+    categories:
+    - finance
+    - travel
+  receipt-indian-rupee:
+    importName: ReceiptIndianRupee
+    categories:
+    - finance
+    - travel
+  receipt-japanese-yen:
+    importName: ReceiptJapaneseYen
+    categories:
+    - finance
+    - travel
+  receipt-pound-sterling:
+    importName: ReceiptPoundSterling
+    categories:
+    - finance
+    - travel
+  receipt-russian-ruble:
+    importName: ReceiptRussianRuble
+    categories:
+    - finance
+    - travel
+  receipt-swiss-franc:
+    importName: ReceiptSwissFranc
+    categories:
+    - finance
+    - travel
+  receipt-text:
+    importName: ReceiptText
+    categories:
+    - finance
+    - travel
+  receipt-turkish-lira:
+    importName: ReceiptTurkishLira
+    categories:
+    - finance
+    - travel
+  receipt:
+    importName: Receipt
+    categories:
+    - finance
+    - travel
+  rectangle-circle:
+    importName: RectangleCircle
+    categories:
+    - development
+    - text
+  rectangle-ellipsis:
+    importName: RectangleEllipsis
+    categories:
+    - text
+    - development
+  rectangle-goggles:
+    importName: RectangleGoggles
+    categories:
+    - devices
+    - gaming
+    - multimedia
+    - connectivity
+  rectangle-horizontal:
+    importName: RectangleHorizontal
+    categories:
+    - shapes
+    - design
+  rectangle-vertical:
+    importName: RectangleVertical
+    categories:
+    - shapes
+    - design
+  recycle:
+    importName: Recycle
+    categories:
+    - sustainability
+  redo-2:
+    importName: Redo2
+    categories:
+    - text
+    - arrows
+  redo-dot:
+    importName: RedoDot
+    categories:
+    - text
+    - arrows
+  redo:
+    importName: Redo
+    categories:
+    - text
+    - arrows
+  refresh-ccw-dot:
+    importName: RefreshCcwDot
+    categories:
+    - arrows
+    - development
+  refresh-ccw:
+    importName: RefreshCcw
+    categories:
+    - arrows
+  refresh-cw-off:
+    importName: RefreshCwOff
+    categories:
+    - arrows
+  refresh-cw:
+    importName: RefreshCw
+    categories:
+    - arrows
+  refrigerator:
+    importName: Refrigerator
+    categories:
+    - food-beverage
+    - home
+  regex:
+    importName: Regex
+    categories:
+    - text
+    - development
+  remove-formatting:
+    importName: RemoveFormatting
+    categories:
+    - text
+  repeat-1:
+    importName: Repeat1
+    categories:
+    - multimedia
+  repeat-2:
+    importName: Repeat2
+    categories:
+    - arrows
+    - social
+    - multimedia
+  repeat-off:
+    importName: RepeatOff
+    categories:
+    - arrows
+    - multimedia
+  repeat:
+    importName: Repeat
+    categories:
+    - arrows
+    - multimedia
+  replace-all:
+    importName: ReplaceAll
+    categories:
+    - text
+  replace:
+    importName: Replace
+    categories:
+    - text
+  reply-all:
+    importName: ReplyAll
+    categories:
+    - mail
+  reply:
+    importName: Reply
+    categories:
+    - mail
+  rewind:
+    importName: Rewind
+    categories:
+    - arrows
+    - multimedia
+  ribbon:
+    importName: Ribbon
+    categories:
+    - social
+    - medical
+    - emoji
+  road:
+    importName: Road
+    categories:
+    - transportation
+  rocket:
+    importName: Rocket
+    categories:
+    - gaming
+    - development
+  rocking-chair:
+    importName: RockingChair
+    categories:
+    - home
+  roller-coaster:
+    importName: RollerCoaster
+    categories:
+    - navigation
+  rose:
+    importName: Rose
+    categories:
+    - nature
+    - seasons
+    - sustainability
+    - home
+    - social
+  rotate-3d:
+    importName: Rotate3d
+    categories:
+    - design
+  rotate-ccw-clock:
+    importName: RotateCcwClock
+    categories:
+    - arrows
+    - time
+  rotate-ccw-key:
+    importName: RotateCcwKey
+    categories:
+    - security
+    - account
+  rotate-ccw-square:
+    importName: RotateCcwSquare
+    categories:
+    - layout
+    - design
+    - photography
+    - tools
+    - arrows
+  rotate-ccw:
+    importName: RotateCcw
+    categories:
+    - arrows
+    - design
+    - photography
+  rotate-cw-fading-clock:
+    importName: RotateCwFadingClock
+    categories:
+    - time
+  rotate-cw-square:
+    importName: RotateCwSquare
+    categories:
+    - layout
+    - design
+    - photography
+    - tools
+    - arrows
+  rotate-cw:
+    importName: RotateCw
+    categories:
+    - arrows
+    - design
+    - photography
+  route-off:
+    importName: RouteOff
+    categories:
+    - navigation
+  route:
+    importName: Route
+    categories:
+    - navigation
+  router:
+    importName: Router
+    categories:
+    - development
+    - devices
+    - connectivity
+    - home
+  rows-2:
+    importName: Rows2
+    categories:
+    - layout
+    - design
+    - text
+  rows-3:
+    importName: Rows3
+    categories:
+    - layout
+    - design
+    - text
+  rows-4:
+    importName: Rows4
+    categories:
+    - layout
+    - design
+    - text
+  rss:
+    importName: Rss
+    categories:
+    - development
+    - social
+  ruler-dimension-line:
+    importName: RulerDimensionLine
+    categories:
+    - tools
+    - design
+    - layout
+  ruler:
+    importName: Ruler
+    categories:
+    - tools
+    - design
+    - layout
+  russian-ruble:
+    importName: RussianRuble
+    categories:
+    - finance
+  sailboat:
+    importName: Sailboat
+    categories:
+    - transportation
+    - travel
+  salad:
+    importName: Salad
+    categories:
+    - food-beverage
+    - emoji
+  sandwich:
+    importName: Sandwich
+    categories:
+    - food-beverage
+  satellite-dish:
+    importName: SatelliteDish
+    categories:
+    - connectivity
+    - devices
+    - multimedia
+  satellite:
+    importName: Satellite
+    categories:
+    - connectivity
+    - science
+  saudi-riyal:
+    importName: SaudiRiyal
+    categories:
+    - finance
+  save-all:
+    importName: SaveAll
+    categories:
+    - text
+    - files
+  save-check:
+    importName: SaveCheck
+    categories:
+    - text
+    - files
+    - development
+  save-off:
+    importName: SaveOff
+    categories:
+    - text
+    - files
+  save-pen:
+    importName: SavePen
+    categories:
+    - text
+    - files
+  save-plus:
+    importName: SavePlus
+    categories:
+    - text
+    - files
+  save:
+    importName: Save
+    categories:
+    - text
+    - files
+  scale-3d:
+    importName: Scale3d
+    categories:
+    - design
+  scale:
+    importName: Scale
+    categories:
+    - navigation
+    - science
+    - finance
+  scaling:
+    importName: Scaling
+    categories:
+    - design
+  scan-barcode:
+    importName: ScanBarcode
+    categories:
+    - shopping
+    - devices
+  scan-box:
+    importName: ScanBox
+    categories:
+    - design
+    - devices
+    - shopping
+    - gaming
+  scan-eye:
+    importName: ScanEye
+    categories:
+    - photography
+    - multimedia
+    - accessibility
+    - security
+    - devices
+    - account
+  scan-face:
+    importName: ScanFace
+    categories:
+    - account
+    - security
+    - devices
+    - social
+  scan-heart:
+    importName: ScanHeart
+    categories:
+    - medical
+  scan-line:
+    importName: ScanLine
+    categories:
+    - devices
+    - shopping
+  scan-qr-code:
+    importName: ScanQrCode
+    categories:
+    - account
+    - shopping
+    - devices
+    - security
+  scan-search:
+    importName: ScanSearch
+    categories:
+    - photography
+    - multimedia
+    - accessibility
+  scan-square:
+    importName: ScanSquare
+    categories:
+    - photography
+    - design
+    - development
+  scan-text:
+    importName: ScanText
+    categories:
+    - text
+    - devices
+  scan:
+    importName: Scan
+    categories:
+    - devices
+    - shopping
+    - security
+    - social
+    - gaming
+  school:
+    importName: School
+    categories:
+    - buildings
+    - navigation
+  scissors-line-dashed:
+    importName: ScissorsLineDashed
+    categories:
+    - design
+    - tools
+  scissors:
+    importName: Scissors
+    categories:
+    - text
+    - design
+    - tools
+  scooter:
+    importName: Scooter
+    categories:
+    - transportation
+  screen-share-off:
+    importName: ScreenShareOff
+    categories:
+    - connectivity
+    - devices
+    - communication
+  screen-share:
+    importName: ScreenShare
+    categories:
+    - connectivity
+    - devices
+    - communication
+  scroll-text:
+    importName: ScrollText
+    categories:
+    - gaming
+    - development
+    - text
+  scroll:
+    importName: Scroll
+    categories:
+    - gaming
+    - development
+    - text
+  search-alert:
+    importName: SearchAlert
+    categories:
+    - text
+    - social
+  search-check:
+    importName: SearchCheck
+    categories:
+    - text
+    - social
+  search-code:
+    importName: SearchCode
+    categories:
+    - text
+    - social
+    - development
+  search-slash:
+    importName: SearchSlash
+    categories:
+    - text
+    - social
+  search-x:
+    importName: SearchX
+    categories:
+    - text
+    - social
+  search:
+    importName: Search
+    categories:
+    - text
+    - social
+  section:
+    importName: Section
+    categories:
+    - text
+  send-horizontal:
+    importName: SendHorizontal
+    categories:
+    - mail
+    - communication
+    - connectivity
+  send-to-back:
+    importName: SendToBack
+    categories:
+    - design
+    - layout
+  send:
+    importName: Send
+    categories:
+    - mail
+    - communication
+    - connectivity
+  separator-horizontal:
+    importName: SeparatorHorizontal
+    categories:
+    - text
+    - arrows
+    - layout
+  separator-vertical:
+    importName: SeparatorVertical
+    categories:
+    - text
+    - arrows
+    - layout
+  server-cog:
+    importName: ServerCog
+    categories:
+    - development
+    - devices
+  server-crash:
+    importName: ServerCrash
+    categories:
+    - development
+    - devices
+  server-off:
+    importName: ServerOff
+    categories:
+    - development
+    - devices
+  server-plus:
+    importName: ServerPlus
+    categories:
+    - development
+    - devices
+  server:
+    importName: Server
+    categories:
+    - development
+    - devices
+  settings-2:
+    importName: Settings2
+    categories:
+    - account
+  settings:
+    importName: Settings
+    categories:
+    - account
+  shapes:
+    importName: Shapes
+    categories:
+    - shapes
+    - gaming
+  share-2:
+    importName: Share2
+    categories:
+    - account
+    - social
+  share:
+    importName: Share
+    categories:
+    - account
+    - social
+  sheet:
+    importName: Sheet
+    categories:
+    - text
+    - files
+  shell:
+    importName: Shell
+    categories:
+    - animals
+    - development
+    - nature
+    - science
+    - travel
+    - food-beverage
+    - home
+  shelving-unit:
+    importName: ShelvingUnit
+    categories:
+    - home
+  shield-alert:
+    importName: ShieldAlert
+    categories:
+    - account
+    - security
+    - development
+    - notifications
+    - gaming
+  shield-ban:
+    importName: ShieldBan
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-check:
+    importName: ShieldCheck
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-cog-corner:
+    importName: ShieldCogCorner
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+    - shapes
+  shield-cog:
+    importName: ShieldCog
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+    - shapes
+  shield-ellipsis:
+    importName: ShieldEllipsis
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-half:
+    importName: ShieldHalf
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-keyhole:
+    importName: ShieldKeyhole
+    categories:
+    - account
+    - security
+    - development
+    - files
+  shield-minus:
+    importName: ShieldMinus
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-off:
+    importName: ShieldOff
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-plus:
+    importName: ShieldPlus
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+    - medical
+  shield-question-mark:
+    importName: ShieldQuestionMark
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield-user:
+    importName: ShieldUser
+    categories:
+    - account
+    - security
+    - development
+  shield-x:
+    importName: ShieldX
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+  shield:
+    importName: Shield
+    categories:
+    - account
+    - security
+    - development
+    - gaming
+    - shapes
+  ship-wheel:
+    importName: ShipWheel
+    categories:
+    - transportation
+    - navigation
+    - travel
+  ship:
+    importName: Ship
+    categories:
+    - transportation
+    - navigation
+    - travel
+  shirt:
+    importName: Shirt
+    categories:
+    - shopping
+  shopping-bag:
+    importName: ShoppingBag
+    categories:
+    - shopping
+  shopping-basket:
+    importName: ShoppingBasket
+    categories:
+    - shopping
+  shopping-cart:
+    importName: ShoppingCart
+    categories:
+    - shopping
+  shovel:
+    importName: Shovel
+    categories:
+    - nature
+    - tools
+    - gaming
+  shower-head:
+    importName: ShowerHead
+    categories:
+    - home
+    - travel
+  shredder:
+    importName: Shredder
+    categories:
+    - mail
+    - files
+  shrimp:
+    importName: Shrimp
+    categories:
+    - animals
+  shrink:
+    importName: Shrink
+    categories:
+    - layout
+    - arrows
+  shrub:
+    importName: Shrub
+    categories:
+    - nature
+  shuffle:
+    importName: Shuffle
+    categories:
+    - multimedia
+    - arrows
+  sigma:
+    importName: Sigma
+    categories:
+    - text
+    - math
+    - science
+  signal-high:
+    importName: SignalHigh
+    categories:
+    - connectivity
+  signal-low:
+    importName: SignalLow
+    categories:
+    - connectivity
+  signal-medium:
+    importName: SignalMedium
+    categories:
+    - connectivity
+  signal-zero:
+    importName: SignalZero
+    categories:
+    - connectivity
+  signal:
+    importName: Signal
+    categories:
+    - connectivity
+  signature:
+    importName: Signature
+    categories:
+    - text
+  signpost-big:
+    importName: SignpostBig
+    categories:
+    - arrows
+    - navigation
+    - development
+    - gaming
+  signpost:
+    importName: Signpost
+    categories:
+    - arrows
+    - navigation
+    - development
+    - gaming
+  siren:
+    importName: Siren
+    categories:
+    - medical
+  skip-back:
+    importName: SkipBack
+    categories:
+    - multimedia
+    - arrows
+  skip-forward:
+    importName: SkipForward
+    categories:
+    - multimedia
+    - arrows
+  skull:
+    importName: Skull
+    categories:
+    - gaming
+  slash:
+    importName: Slash
+    categories:
+    - development
+    - math
+  slice:
+    importName: Slice
+    categories:
+    - design
+  sliders-horizontal:
+    importName: SlidersHorizontal
+    categories:
+    - account
+  sliders-vertical:
+    importName: SlidersVertical
+    categories:
+    - account
+  smartphone-charging:
+    importName: SmartphoneCharging
+    categories:
+    - connectivity
+    - devices
+  smartphone-nfc:
+    importName: SmartphoneNfc
+    categories:
+    - communication
+    - finance
+    - devices
+  smartphone:
+    importName: Smartphone
+    categories:
+    - connectivity
+    - devices
+  smile-plus:
+    importName: SmilePlus
+    categories:
+    - emoji
+    - social
+    - notifications
+    - communication
+  smile:
+    importName: Smile
+    categories:
+    - emoji
+    - account
+  snail:
+    importName: Snail
+    categories:
+    - animals
+    - food-beverage
+  snowflake:
+    importName: Snowflake
+    categories:
+    - weather
+    - seasons
+  soap-dispenser-droplet:
+    importName: SoapDispenserDroplet
+    categories:
+    - home
+    - travel
+  sofa:
+    importName: Sofa
+    categories:
+    - home
+  solar-panel:
+    importName: SolarPanel
+    categories:
+    - home
+    - science
+    - sustainability
+    - weather
+  soup:
+    importName: Soup
+    categories:
+    - food-beverage
+  space:
+    importName: Space
+    categories:
+    - text
+  spade:
+    importName: Spade
+    categories:
+    - shapes
+    - gaming
+  sparkle:
+    importName: Sparkle
+    categories:
+    - shapes
+  sparkles:
+    importName: Sparkles
+    categories:
+    - cursors
+    - multimedia
+    - gaming
+    - weather
+  speaker:
+    importName: Speaker
+    categories:
+    - multimedia
+    - devices
+  speech:
+    importName: Speech
+    categories:
+    - accessibility
+    - communication
+  spell-check-2:
+    importName: SpellCheck2
+    categories:
+    - text
+    - development
+  spell-check:
+    importName: SpellCheck
+    categories:
+    - text
+    - development
+  spline-pointer:
+    importName: SplinePointer
+    categories:
+    - arrows
+    - cursors
+    - design
+    - tools
+  spline:
+    importName: Spline
+    categories:
+    - design
+  split:
+    importName: Split
+    categories:
+    - development
+    - arrows
+  spool:
+    importName: Spool
+    categories:
+    - communication
+    - tools
+    - social
+  sport-shoe:
+    importName: SportShoe
+    categories:
+    - sports
+  spotlight:
+    importName: Spotlight
+    categories:
+    - devices
+    - photography
+    - multimedia
+    - communication
+  spray-can:
+    importName: SprayCan
+    categories:
+    - design
+    - tools
+  sprout:
+    importName: Sprout
+    categories:
+    - nature
+    - gaming
+    - sustainability
+  square-activity:
+    importName: SquareActivity
+    categories:
+    - medical
+    - social
+    - science
+    - multimedia
+  square-arrow-down-left:
+    importName: SquareArrowDownLeft
+    categories:
+    - arrows
+    - gaming
+  square-arrow-down-right:
+    importName: SquareArrowDownRight
+    categories:
+    - arrows
+    - gaming
+  square-arrow-down:
+    importName: SquareArrowDown
+    categories:
+    - arrows
+    - gaming
+  square-arrow-left:
+    importName: SquareArrowLeft
+    categories:
+    - arrows
+  square-arrow-out-down-left:
+    importName: SquareArrowOutDownLeft
+    categories:
+    - arrows
+  square-arrow-out-down-right:
+    importName: SquareArrowOutDownRight
+    categories:
+    - arrows
+  square-arrow-out-up-left:
+    importName: SquareArrowOutUpLeft
+    categories:
+    - arrows
+  square-arrow-out-up-right:
+    importName: SquareArrowOutUpRight
+    categories:
+    - arrows
+    - social
+  square-arrow-right-enter:
+    importName: SquareArrowRightEnter
+    categories:
+    - arrows
+    - shapes
+    - layout
+    - multimedia
+  square-arrow-right-exit:
+    importName: SquareArrowRightExit
+    categories:
+    - arrows
+    - shapes
+    - layout
+    - multimedia
+  square-arrow-right:
+    importName: SquareArrowRight
+    categories:
+    - arrows
+  square-arrow-up-left:
+    importName: SquareArrowUpLeft
+    categories:
+    - arrows
+  square-arrow-up-right:
+    importName: SquareArrowUpRight
+    categories:
+    - arrows
+    - social
+  square-arrow-up:
+    importName: SquareArrowUp
+    categories:
+    - arrows
+  square-asterisk:
+    importName: SquareAsterisk
+    categories:
+    - text
+    - security
+    - math
+    - development
+  square-bottom-dashed-scissors:
+    importName: SquareBottomDashedScissors
+    categories:
+    - text
+    - design
+    - tools
+    - files
+    - development
+  square-centerline-dashed-horizontal:
+    importName: SquareCenterlineDashedHorizontal
+    categories:
+    - design
+    - photography
+  square-centerline-dashed-vertical:
+    importName: SquareCenterlineDashedVertical
+    categories:
+    - design
+    - photography
+  square-chart-gantt:
+    importName: SquareChartGantt
+    categories:
+    - charts
+    - time
+    - development
+    - design
+  square-check-big:
+    importName: SquareCheckBig
+    categories:
+    - notifications
+  square-check:
+    importName: SquareCheck
+    categories:
+    - notifications
+  square-chevron-down:
+    importName: SquareChevronDown
+    categories:
+    - arrows
+    - navigation
+  square-chevron-left:
+    importName: SquareChevronLeft
+    categories:
+    - arrows
+    - navigation
+  square-chevron-right:
+    importName: SquareChevronRight
+    categories:
+    - arrows
+    - navigation
+    - development
+  square-chevron-up:
+    importName: SquareChevronUp
+    categories:
+    - arrows
+    - navigation
+    - math
+  square-code:
+    importName: SquareCode
+    categories:
+    - text
+    - development
+  square-dashed-bottom-code:
+    importName: SquareDashedBottomCode
+    categories:
+    - development
+    - files
+  square-dashed-bottom:
+    importName: SquareDashedBottom
+    categories:
+    - development
+    - files
+  square-dashed-kanban:
+    importName: SquareDashedKanban
+    categories:
+    - charts
+    - development
+    - design
+  square-dashed-mouse-pointer:
+    importName: SquareDashedMousePointer
+    categories:
+    - arrows
+    - cursors
+    - development
+    - tools
+  square-dashed-text:
+    importName: SquareDashedText
+    categories:
+    - text
+    - cursors
+  square-dashed-top-solid:
+    importName: SquareDashedTopSolid
+    categories:
+    - design
+    - development
+    - layout
+  square-dashed:
+    importName: SquareDashed
+    categories:
+    - text
+    - design
+  square-divide:
+    importName: SquareDivide
+    categories:
+    - math
+  square-dot:
+    importName: SquareDot
+    categories:
+    - development
+  square-equal:
+    importName: SquareEqual
+    categories:
+    - math
+  square-function:
+    importName: SquareFunction
+    categories:
+    - development
+    - math
+  square-kanban:
+    importName: SquareKanban
+    categories:
+    - charts
+    - development
+    - design
+  square-library:
+    importName: SquareLibrary
+    categories:
+    - text
+    - photography
+    - multimedia
+    - navigation
+    - development
+  square-m:
+    importName: SquareM
+    categories:
+    - transportation
+    - navigation
+  square-menu:
+    importName: SquareMenu
+    categories:
+    - layout
+  square-minus:
+    importName: SquareMinus
+    categories:
+    - math
+    - development
+    - text
+    - tools
+    - devices
+  square-mouse-pointer:
+    importName: SquareMousePointer
+    categories:
+    - arrows
+    - cursors
+    - development
+    - tools
+  square-off:
+    importName: SquareOff
+    categories:
+    - shapes
+    - design
+  square-parking-off:
+    importName: SquareParkingOff
+    categories:
+    - transportation
+    - navigation
+  square-parking:
+    importName: SquareParking
+    categories:
+    - transportation
+    - navigation
+  square-pause:
+    importName: SquarePause
+    categories:
+    - multimedia
+  square-pen:
+    importName: SquarePen
+    categories:
+    - text
+  square-percent:
+    importName: SquarePercent
+    categories:
+    - social
+    - finance
+    - shopping
+    - math
+  square-pi:
+    importName: SquarePi
+    categories:
+    - development
+    - math
+  square-pilcrow:
+    importName: SquarePilcrow
+    categories:
+    - text
+  square-play:
+    importName: SquarePlay
+    categories:
+    - arrows
+    - multimedia
+  square-plus:
+    importName: SquarePlus
+    categories:
+    - math
+    - tools
+    - development
+    - text
+  square-power:
+    importName: SquarePower
+    categories:
+    - connectivity
+  square-radical:
+    importName: SquareRadical
+    categories:
+    - development
+    - math
+  square-round-corner:
+    importName: SquareRoundCorner
+    categories:
+    - design
+    - development
+    - layout
+  square-scissors:
+    importName: SquareScissors
+    categories:
+    - text
+    - design
+    - tools
+    - files
+    - development
+  square-sigma:
+    importName: SquareSigma
+    categories:
+    - text
+    - math
+  square-slash:
+    importName: SquareSlash
+    categories:
+    - development
+    - math
+  square-split-horizontal:
+    importName: SquareSplitHorizontal
+    categories:
+    - layout
+  square-split-vertical:
+    importName: SquareSplitVertical
+    categories:
+    - layout
+  square-square:
+    importName: SquareSquare
+    categories:
+    - layout
+  square-stack:
+    importName: SquareStack
+    categories:
+    - text
+    - files
+    - development
+  square-star:
+    importName: SquareStar
+    categories:
+    - sports
+    - gaming
+  square-stop:
+    importName: SquareStop
+    categories:
+    - multimedia
+  square-terminal:
+    importName: SquareTerminal
+    categories:
+    - development
+  square-user-round:
+    importName: SquareUserRound
+    categories:
+    - account
+  square-user:
+    importName: SquareUser
+    categories:
+    - account
+  square-x:
+    importName: SquareX
+    categories:
+    - math
+    - notifications
+  square:
+    importName: Square
+    categories:
+    - shapes
+    - multimedia
+  squares-exclude:
+    importName: SquaresExclude
+    categories:
+    - design
+  squares-intersect:
+    importName: SquaresIntersect
+    categories:
+    - design
+  squares-subtract:
+    importName: SquaresSubtract
+    categories:
+    - design
+  squares-unite:
+    importName: SquaresUnite
+    categories:
+    - design
+  squircle-dashed:
+    importName: SquircleDashed
+    categories:
+    - development
+    - shapes
+    - design
+  squircle:
+    importName: Squircle
+    categories:
+    - shapes
+  squirrel:
+    importName: Squirrel
+    categories:
+    - animals
+  stamp:
+    importName: Stamp
+    categories:
+    - design
+    - cursors
+    - tools
+  star-check:
+    importName: StarCheck
+    categories:
+    - account
+    - social
+    - shapes
+    - multimedia
+    - weather
+    - emoji
+    - gaming
+  star-half:
+    importName: StarHalf
+    categories:
+    - social
+    - multimedia
+  star-minus:
+    importName: StarMinus
+    categories:
+    - account
+    - social
+    - shapes
+    - multimedia
+    - weather
+    - emoji
+    - gaming
+  star-off:
+    importName: StarOff
+    categories:
+    - multimedia
+    - social
+  star-plus:
+    importName: StarPlus
+    categories:
+    - account
+    - social
+    - shapes
+    - multimedia
+    - weather
+    - emoji
+    - gaming
+  star-x:
+    importName: StarX
+    categories:
+    - account
+    - social
+    - shapes
+    - multimedia
+    - weather
+    - emoji
+    - gaming
+  star:
+    importName: Star
+    categories:
+    - account
+    - social
+    - shapes
+    - multimedia
+    - weather
+    - emoji
+    - gaming
+  step-back:
+    importName: StepBack
+    categories:
+    - multimedia
+    - arrows
+  step-forward:
+    importName: StepForward
+    categories:
+    - multimedia
+    - arrows
+  stethoscope:
+    importName: Stethoscope
+    categories:
+    - science
+    - medical
+  sticker:
+    importName: Sticker
+    categories:
+    - social
+  sticky-note-check:
+    importName: StickyNoteCheck
+    categories:
+    - text
+    - social
+  sticky-note-minus:
+    importName: StickyNoteMinus
+    categories:
+    - text
+    - social
+  sticky-note-off:
+    importName: StickyNoteOff
+    categories:
+    - text
+    - social
+  sticky-note-plus:
+    importName: StickyNotePlus
+    categories:
+    - text
+    - social
+  sticky-note-x:
+    importName: StickyNoteX
+    categories:
+    - text
+    - social
+  sticky-note:
+    importName: StickyNote
+    categories:
+    - text
+    - social
+  sticky-notes:
+    importName: StickyNotes
+    categories:
+    - text
+    - social
+  stone:
+    importName: Stone
+    categories:
+    - nature
+  store:
+    importName: Store
+    categories:
+    - buildings
+    - navigation
+    - shopping
+  stretch-horizontal:
+    importName: StretchHorizontal
+    categories:
+    - layout
+  stretch-vertical:
+    importName: StretchVertical
+    categories:
+    - layout
+  strikethrough:
+    importName: Strikethrough
+    categories:
+    - text
+  subscript:
+    importName: Subscript
+    categories:
+    - text
+  summary:
+    importName: Summary
+    categories:
+    - text
+  sun-dim:
+    importName: SunDim
+    categories:
+    - accessibility
+    - weather
+  sun-medium:
+    importName: SunMedium
+    categories:
+    - accessibility
+    - weather
+  sun-moon:
+    importName: SunMoon
+    categories:
+    - accessibility
+  sun-snow:
+    importName: SunSnow
+    categories:
+    - weather
+  sun:
+    importName: Sun
+    categories:
+    - accessibility
+    - weather
+    - seasons
+    - sustainability
+  sunrise:
+    importName: Sunrise
+    categories:
+    - arrows
+    - weather
+    - time
+  sunset:
+    importName: Sunset
+    categories:
+    - arrows
+    - weather
+  superscript:
+    importName: Superscript
+    categories:
+    - text
+  swatch-book:
+    importName: SwatchBook
+    categories:
+    - design
+    - home
+    - photography
+  swiss-franc:
+    importName: SwissFranc
+    categories:
+    - finance
+  switch-camera:
+    importName: SwitchCamera
+    categories:
+    - communication
+    - devices
+  sword:
+    importName: Sword
+    categories:
+    - gaming
+    - tools
+  swords:
+    importName: Swords
+    categories:
+    - gaming
+    - tools
+  syringe:
+    importName: Syringe
+    categories:
+    - science
+    - medical
+  table-2:
+    importName: Table2
+    categories:
+    - text
+    - files
+  table-cells-merge:
+    importName: TableCellsMerge
+    categories:
+    - text
+    - files
+  table-cells-split:
+    importName: TableCellsSplit
+    categories:
+    - text
+    - files
+  table-columns-split:
+    importName: TableColumnsSplit
+    categories:
+    - text
+    - files
+  table-of-contents:
+    importName: TableOfContents
+    categories:
+    - text
+  table-properties:
+    importName: TableProperties
+    categories:
+    - text
+    - development
+    - files
+  table-rows-split:
+    importName: TableRowsSplit
+    categories:
+    - text
+    - files
+  table:
+    importName: Table
+    categories:
+    - text
+    - files
+  tablet-smartphone:
+    importName: TabletSmartphone
+    categories:
+    - devices
+    - design
+    - development
+    - tools
+  tablet:
+    importName: Tablet
+    categories:
+    - devices
+  tablets:
+    importName: Tablets
+    categories:
+    - medical
+  tag-plus:
+    importName: TagPlus
+    categories:
+    - account
+  tag-x:
+    importName: TagX
+    categories:
+    - account
+  tag:
+    importName: Tag
+    categories:
+    - account
+  tags:
+    importName: Tags
+    categories:
+    - account
+  tally-1:
+    importName: Tally1
+    categories:
+    - math
+    - gaming
+  tally-2:
+    importName: Tally2
+    categories:
+    - math
+    - gaming
+  tally-3:
+    importName: Tally3
+    categories:
+    - math
+    - gaming
+  tally-4:
+    importName: Tally4
+    categories:
+    - math
+    - gaming
+  tally-5:
+    importName: Tally5
+    categories:
+    - math
+    - gaming
+  tangent:
+    importName: Tangent
+    categories:
+    - shapes
+    - math
+    - design
+    - tools
+  target:
+    importName: Target
+    categories:
+    - gaming
+  telescope:
+    importName: Telescope
+    categories:
+    - science
+    - development
+    - tools
+  tent-tree:
+    importName: TentTree
+    categories:
+    - travel
+    - nature
+  tent:
+    importName: Tent
+    categories:
+    - travel
+    - nature
+    - sustainability
+  terminal:
+    importName: Terminal
+    categories:
+    - development
+  test-tube-diagonal:
+    importName: TestTubeDiagonal
+    categories:
+    - science
+  test-tube:
+    importName: TestTube
+    categories:
+    - science
+  test-tubes:
+    importName: TestTubes
+    categories:
+    - science
+  text-align-center:
+    importName: TextAlignCenter
+    categories:
+    - text
+  text-align-end:
+    importName: TextAlignEnd
+    categories:
+    - text
+  text-align-justify:
+    importName: TextAlignJustify
+    categories:
+    - text
+  text-align-start:
+    importName: TextAlignStart
+    categories:
+    - text
+  text-cursor-input:
+    importName: TextCursorInput
+    categories:
+    - text
+    - layout
+  text-cursor:
+    importName: TextCursor
+    categories:
+    - text
+    - cursors
+  text-initial:
+    importName: TextInitial
+    categories:
+    - text
+  text-quote:
+    importName: TextQuote
+    categories:
+    - text
+  text-search:
+    importName: TextSearch
+    categories:
+    - text
+  text-wrap:
+    importName: TextWrap
+    categories:
+    - text
+    - arrows
+  theater:
+    importName: Theater
+    categories:
+    - buildings
+    - social
+  thermometer-snowflake:
+    importName: ThermometerSnowflake
+    categories:
+    - weather
+  thermometer-sun:
+    importName: ThermometerSun
+    categories:
+    - weather
+  thermometer:
+    importName: Thermometer
+    categories:
+    - weather
+  thumbs-down:
+    importName: ThumbsDown
+    categories:
+    - account
+    - social
+    - emoji
+  thumbs-up:
+    importName: ThumbsUp
+    categories:
+    - account
+    - social
+    - emoji
+  ticket-check:
+    importName: TicketCheck
+    categories:
+    - transportation
+  ticket-minus:
+    importName: TicketMinus
+    categories:
+    - transportation
+  ticket-percent:
+    importName: TicketPercent
+    categories:
+    - transportation
+    - shopping
+  ticket-plus:
+    importName: TicketPlus
+    categories:
+    - transportation
+  ticket-slash:
+    importName: TicketSlash
+    categories:
+    - transportation
+  ticket-x:
+    importName: TicketX
+    categories:
+    - transportation
+  ticket:
+    importName: Ticket
+    categories:
+    - account
+    - transportation
+  tickets-plane:
+    importName: TicketsPlane
+    categories:
+    - transportation
+    - travel
+  tickets:
+    importName: Tickets
+    categories:
+    - travel
+    - account
+    - transportation
+  timeline:
+    importName: Timeline
+    categories:
+    - time
+  timer-off:
+    importName: TimerOff
+    categories:
+    - time
+  timer-reset:
+    importName: TimerReset
+    categories:
+    - time
+  timer:
+    importName: Timer
+    categories:
+    - time
+  toggle-left:
+    importName: ToggleLeft
+    categories:
+    - layout
+    - account
+    - development
+  toggle-right:
+    importName: ToggleRight
+    categories:
+    - layout
+    - account
+    - development
+  toilet:
+    importName: Toilet
+    categories:
+    - devices
+    - home
+  tool-case:
+    importName: ToolCase
+    categories:
+    - tools
+    - development
+    - home
+  toolbox:
+    importName: Toolbox
+    categories:
+    - tools
+    - home
+  tornado:
+    importName: Tornado
+    categories:
+    - weather
+  torus:
+    importName: Torus
+    categories:
+    - shapes
+    - design
+    - tools
+    - food-beverage
+  touchpad-off:
+    importName: TouchpadOff
+    categories:
+    - devices
+  touchpad:
+    importName: Touchpad
+    categories:
+    - devices
+  towel-rack:
+    importName: TowelRack
+    categories:
+    - home
+    - travel
+  tower-control:
+    importName: TowerControl
+    categories:
+    - travel
+    - transportation
+  toy-brick:
+    importName: ToyBrick
+    categories:
+    - gaming
+    - development
+  tractor:
+    importName: Tractor
+    categories:
+    - transportation
+    - sustainability
+    - food-beverage
+  traffic-cone:
+    importName: TrafficCone
+    categories:
+    - transportation
+  train-front-tunnel:
+    importName: TrainFrontTunnel
+    categories:
+    - transportation
+    - navigation
+  train-front:
+    importName: TrainFront
+    categories:
+    - transportation
+  train-track:
+    importName: TrainTrack
+    categories:
+    - transportation
+    - navigation
+  tram-front:
+    importName: TramFront
+    categories:
+    - transportation
+  transgender:
+    importName: Transgender
+    categories:
+    - medical
+    - accessibility
+  trash-2:
+    importName: Trash2
+    categories:
+    - files
+    - mail
+  trash:
+    importName: Trash
+    categories:
+    - files
+    - mail
+  tree-deciduous:
+    importName: TreeDeciduous
+    categories:
+    - nature
+    - sustainability
+  tree-palm:
+    importName: TreePalm
+    categories:
+    - nature
+    - sustainability
+  tree-pine:
+    importName: TreePine
+    categories:
+    - nature
+    - sustainability
+  trees:
+    importName: Trees
+    categories:
+    - nature
+    - sustainability
+  trending-down:
+    importName: TrendingDown
+    categories:
+    - charts
+    - arrows
+  trending-up-down:
+    importName: TrendingUpDown
+    categories:
+    - charts
+    - arrows
+  trending-up:
+    importName: TrendingUp
+    categories:
+    - charts
+    - arrows
+  triangle-alert:
+    importName: TriangleAlert
+    categories:
+    - notifications
+    - shapes
+    - development
+  triangle-dashed:
+    importName: TriangleDashed
+    categories:
+    - shapes
+  triangle-right:
+    importName: TriangleRight
+    categories:
+    - shapes
+    - math
+  triangle:
+    importName: Triangle
+    categories:
+    - shapes
+  trophy:
+    importName: Trophy
+    categories:
+    - sports
+    - gaming
+  truck-electric:
+    importName: TruckElectric
+    categories:
+    - transportation
+  truck:
+    importName: Truck
+    categories:
+    - transportation
+  turkish-lira:
+    importName: TurkishLira
+    categories:
+    - finance
+  turntable:
+    importName: Turntable
+    categories:
+    - multimedia
+    - home
+  turtle:
+    importName: Turtle
+    categories:
+    - animals
+  tv-minimal-play:
+    importName: TvMinimalPlay
+    categories:
+    - devices
+    - multimedia
+  tv-minimal:
+    importName: TvMinimal
+    categories:
+    - devices
+    - multimedia
+  tv:
+    importName: Tv
+    categories:
+    - devices
+    - multimedia
+    - communication
+  type-outline:
+    importName: TypeOutline
+    categories:
+    - text
+  type:
+    importName: Type
+    categories:
+    - text
+  umbrella-off:
+    importName: UmbrellaOff
+    categories:
+    - weather
+  umbrella:
+    importName: Umbrella
+    categories:
+    - weather
+  underline:
+    importName: Underline
+    categories:
+    - text
+  undo-2:
+    importName: Undo2
+    categories:
+    - text
+    - arrows
+  undo-dot:
+    importName: UndoDot
+    categories:
+    - text
+    - arrows
+  undo:
+    importName: Undo
+    categories:
+    - text
+    - arrows
+  unfold-horizontal:
+    importName: UnfoldHorizontal
+    categories:
+    - arrows
+    - layout
+  unfold-vertical:
+    importName: UnfoldVertical
+    categories:
+    - arrows
+    - layout
+  ungroup:
+    importName: Ungroup
+    categories:
+    - shapes
+    - files
+  university:
+    importName: University
+    categories:
+    - buildings
+    - navigation
+  unlink-2:
+    importName: Unlink2
+    categories:
+    - text
+  unlink:
+    importName: Unlink
+    categories:
+    - text
+  unplug:
+    importName: Unplug
+    categories:
+    - devices
+    - development
+  upload:
+    importName: Upload
+    categories:
+    - arrows
+    - files
+  usb:
+    importName: Usb
+    categories:
+    - devices
+    - multimedia
+    - home
+  user-check:
+    importName: UserCheck
+    categories:
+    - account
+  user-cog:
+    importName: UserCog
+    categories:
+    - account
+  user-key:
+    importName: UserKey
+    categories:
+    - account
+  user-lock:
+    importName: UserLock
+    categories:
+    - account
+    - security
+  user-minus:
+    importName: UserMinus
+    categories:
+    - account
+  user-pen:
+    importName: UserPen
+    categories:
+    - account
+  user-plus:
+    importName: UserPlus
+    categories:
+    - account
+  user-round-arrow-left:
+    importName: UserRoundArrowLeft
+    categories:
+    - account
+    - people
+    - arrows
+  user-round-check:
+    importName: UserRoundCheck
+    categories:
+    - account
+  user-round-cog:
+    importName: UserRoundCog
+    categories:
+    - account
+  user-round-key:
+    importName: UserRoundKey
+    categories:
+    - account
+  user-round-minus:
+    importName: UserRoundMinus
+    categories:
+    - account
+  user-round-pen:
+    importName: UserRoundPen
+    categories:
+    - account
+  user-round-plus:
+    importName: UserRoundPlus
+    categories:
+    - account
+  user-round-search:
+    importName: UserRoundSearch
+    categories:
+    - account
+    - social
+  user-round-x:
+    importName: UserRoundX
+    categories:
+    - account
+  user-round:
+    importName: UserRound
+    categories:
+    - account
+  user-search:
+    importName: UserSearch
+    categories:
+    - account
+    - social
+  user-shield:
+    importName: UserShield
+    categories:
+    - account
+    - security
+    - development
+    - people
+  user-star:
+    importName: UserStar
+    categories:
+    - account
+  user-x:
+    importName: UserX
+    categories:
+    - account
+  user:
+    importName: User
+    categories:
+    - account
+  users-round:
+    importName: UsersRound
+    categories:
+    - account
+  users:
+    importName: Users
+    categories:
+    - account
+  utensils-crossed:
+    importName: UtensilsCrossed
+    categories:
+    - food-beverage
+    - travel
+    - navigation
+  utensils:
+    importName: Utensils
+    categories:
+    - food-beverage
+    - travel
+    - navigation
+  utility-pole:
+    importName: UtilityPole
+    categories:
+    - buildings
+    - home
+    - sustainability
+  van:
+    importName: Van
+    categories:
+    - transportation
+  variable:
+    importName: Variable
+    categories:
+    - development
+    - math
+  vault:
+    importName: Vault
+    categories:
+    - security
+    - travel
+    - home
+  vector-square:
+    importName: VectorSquare
+    categories:
+    - shapes
+    - math
+    - design
+    - tools
+  vegan:
+    importName: Vegan
+    categories:
+    - food-beverage
+    - sustainability
+  venetian-mask:
+    importName: VenetianMask
+    categories:
+    - account
+    - gaming
+  venus-and-mars:
+    importName: VenusAndMars
+    categories:
+    - medical
+  venus:
+    importName: Venus
+    categories:
+    - medical
+  vibrate-off:
+    importName: VibrateOff
+    categories:
+    - devices
+    - connectivity
+    - account
+  vibrate:
+    importName: Vibrate
+    categories:
+    - devices
+    - connectivity
+    - account
+    - notifications
+  video-off:
+    importName: VideoOff
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - photography
+  video:
+    importName: Video
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - photography
+  videotape:
+    importName: Videotape
+    categories:
+    - devices
+    - communication
+    - connectivity
+    - photography
+    - files
+  view:
+    importName: View
+    categories:
+    - design
+    - photography
+  voicemail:
+    importName: Voicemail
+    categories:
+    - connectivity
+    - devices
+    - social
+  volleyball:
+    importName: Volleyball
+    categories:
+    - sports
+    - gaming
+    - travel
+  volume-1:
+    importName: Volume1
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+  volume-2:
+    importName: Volume2
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+  volume-off:
+    importName: VolumeOff
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+  volume-x:
+    importName: VolumeX
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+  volume:
+    importName: Volume
+    categories:
+    - connectivity
+    - communication
+    - multimedia
+  vote:
+    importName: Vote
+    categories:
+    - social
+  wallet-cards:
+    importName: WalletCards
+    categories:
+    - account
+    - finance
+  wallet-minimal:
+    importName: WalletMinimal
+    categories:
+    - account
+    - finance
+  wallet:
+    importName: Wallet
+    categories:
+    - account
+    - finance
+  wallpaper:
+    importName: Wallpaper
+    categories:
+    - account
+    - devices
+  wand-sparkles:
+    importName: WandSparkles
+    categories:
+    - design
+    - gaming
+    - cursors
+    - photography
+  wand:
+    importName: Wand
+    categories:
+    - design
+    - gaming
+    - cursors
+    - photography
+  warehouse:
+    importName: Warehouse
+    categories:
+    - buildings
+    - navigation
+  washing-machine:
+    importName: WashingMachine
+    categories:
+    - home
+    - devices
+    - travel
+  watch:
+    importName: Watch
+    categories:
+    - time
+  waves-arrow-down:
+    importName: WavesArrowDown
+    categories:
+    - weather
+    - sustainability
+  waves-arrow-up:
+    importName: WavesArrowUp
+    categories:
+    - weather
+    - sustainability
+  waves-horizontal:
+    importName: WavesHorizontal
+    categories:
+    - weather
+    - navigation
+    - multimedia
+    - sustainability
+  waves-ladder:
+    importName: WavesLadder
+    categories:
+    - sports
+    - home
+  waves-vertical:
+    importName: WavesVertical
+    categories:
+    - weather
+    - sustainability
+  waypoints:
+    importName: Waypoints
+    categories:
+    - security
+    - account
+    - navigation
+    - development
+    - social
+  webcam-off:
+    importName: WebcamOff
+    categories:
+    - connectivity
+    - devices
+    - communication
+  webcam:
+    importName: Webcam
+    categories:
+    - connectivity
+    - devices
+    - communication
+  webhook-off:
+    importName: WebhookOff
+    categories:
+    - development
+    - social
+    - account
+  webhook:
+    importName: Webhook
+    categories:
+    - development
+    - social
+    - account
+  weight-tilde:
+    importName: WeightTilde
+    categories:
+    - math
+  weight:
+    importName: Weight
+    categories:
+    - math
+  wheat-off:
+    importName: WheatOff
+    categories:
+    - food-beverage
+  wheat:
+    importName: Wheat
+    categories:
+    - food-beverage
+  whole-word:
+    importName: WholeWord
+    categories:
+    - text
+  wifi-cog:
+    importName: WifiCog
+    categories:
+    - connectivity
+    - devices
+    - files
+  wifi-high:
+    importName: WifiHigh
+    categories:
+    - connectivity
+    - devices
+  wifi-low:
+    importName: WifiLow
+    categories:
+    - connectivity
+    - devices
+  wifi-off:
+    importName: WifiOff
+    categories:
+    - connectivity
+    - devices
+  wifi-pen:
+    importName: WifiPen
+    categories:
+    - connectivity
+    - devices
+  wifi-sync:
+    importName: WifiSync
+    categories:
+    - connectivity
+    - devices
+  wifi-zero:
+    importName: WifiZero
+    categories:
+    - connectivity
+    - devices
+  wifi:
+    importName: Wifi
+    categories:
+    - connectivity
+    - devices
+  wind-arrow-down:
+    importName: WindArrowDown
+    categories:
+    - weather
+    - sustainability
+  wind:
+    importName: Wind
+    categories:
+    - weather
+    - sustainability
+  wine-off:
+    importName: WineOff
+    categories:
+    - food-beverage
+  wine:
+    importName: Wine
+    categories:
+    - food-beverage
+  workflow:
+    importName: Workflow
+    categories:
+    - development
+  worm:
+    importName: Worm
+    categories:
+    - animals
+    - security
+  wrench-off:
+    importName: WrenchOff
+    categories:
+    - account
+    - development
+    - tools
+  wrench:
+    importName: Wrench
+    categories:
+    - account
+    - development
+    - tools
+  x-line-top:
+    importName: XLineTop
+    categories:
+    - notifications
+    - math
+  x:
+    importName: X
+    categories:
+    - notifications
+    - math
+  zap-off:
+    importName: ZapOff
+    categories:
+    - connectivity
+    - devices
+    - photography
+    - weather
+  zap:
+    importName: Zap
+    categories:
+    - connectivity
+    - devices
+    - photography
+    - weather
+  zodiac-aquarius:
+    importName: ZodiacAquarius
+    categories:
+    - social
+    - emoji
+  zodiac-aries:
+    importName: ZodiacAries
+    categories:
+    - social
+    - emoji
+  zodiac-cancer:
+    importName: ZodiacCancer
+    categories:
+    - social
+    - emoji
+  zodiac-capricorn:
+    importName: ZodiacCapricorn
+    categories:
+    - social
+    - emoji
+  zodiac-gemini:
+    importName: ZodiacGemini
+    categories:
+    - social
+    - emoji
+  zodiac-leo:
+    importName: ZodiacLeo
+    categories:
+    - social
+    - emoji
+  zodiac-libra:
+    importName: ZodiacLibra
+    categories:
+    - social
+    - emoji
+  zodiac-ophiuchus:
+    importName: ZodiacOphiuchus
+    categories:
+    - social
+    - emoji
+  zodiac-pisces:
+    importName: ZodiacPisces
+    categories:
+    - social
+    - emoji
+  zodiac-sagittarius:
+    importName: ZodiacSagittarius
+    categories:
+    - social
+    - emoji
+  zodiac-scorpio:
+    importName: ZodiacScorpio
+    categories:
+    - social
+    - emoji
+  zodiac-taurus:
+    importName: ZodiacTaurus
+    categories:
+    - social
+    - emoji
+  zodiac-virgo:
+    importName: ZodiacVirgo
+    categories:
+    - social
+    - emoji
+  zoom-in:
+    importName: ZoomIn
+    categories:
+    - accessibility
+    - layout
+    - design
+    - text
+    - photography
+  zoom-out:
+    importName: ZoomOut
+    categories:
+    - accessibility
+    - layout
+    - design
+    - text
+    - photography

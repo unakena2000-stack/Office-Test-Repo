@@ -1,0 +1,107 @@
+# Color Styles
+# Converted from uploaded file: Styles.json (styles.colors)
+# Total color styles: 33
+
+metadata:
+  exportDate: '2026-07-30T05:39:49.508Z'
+  fileName: Source
+colors:
+- name: Builder Colors/Criteria Summary
+  token: builder-colors-criteria-summary
+  type: solid
+- name: Component/Buttons/Primary/Default
+  token: component-buttons-primary-default
+  type: gradient_linear
+- name: Component/Buttons/Primary/Hover
+  token: component-buttons-primary-hover
+  type: gradient_linear
+- name: Component/Buttons/Primary/Click
+  token: component-buttons-primary-click
+  type: solid
+- name: Component/Buttons/Primary/Disable
+  token: component-buttons-primary-disable
+  type: solid
+- name: Component/Buttons/Default/Default
+  token: component-buttons-default-default
+  type: gradient_linear
+- name: Component/Buttons/Default/Hover
+  token: component-buttons-default-hover
+  type: gradient_linear
+- name: Component/Buttons/Default/Click
+  token: component-buttons-default-click
+  type: solid
+- name: Component/Buttons/Default/Outline
+  token: component-buttons-default-outline
+  type: solid
+- name: Component/Buttons/Default/Disable Text
+  token: component-buttons-default-disable-text
+  type: solid
+- name: Component/Buttons/Default/Disable
+  token: component-buttons-default-disable
+  type: solid
+- name: Component/Buttons/Negative/Default
+  token: component-buttons-negative-default
+  type: gradient_linear
+- name: Component/Buttons/Negative/Hover
+  token: component-buttons-negative-hover
+  type: gradient_linear
+- name: Component/Buttons/Negative/Click
+  token: component-buttons-negative-click
+  type: solid
+- name: Component/Buttons/Negative/Disable
+  token: component-buttons-negative-disable
+  type: solid
+- name: Component/Buttons/Success/Default
+  token: component-buttons-success-default
+  type: gradient_linear
+- name: Component/Buttons/Success/Hover
+  token: component-buttons-success-hover
+  type: gradient_linear
+- name: Component/Buttons/Success/Click
+  token: component-buttons-success-click
+  type: solid
+- name: Component/Buttons/Success/Disable
+  token: component-buttons-success-disable
+  type: solid
+- name: Component/Buttons/Outline Blue/Default
+  token: component-buttons-outline-blue-default
+  type: solid
+- name: Component/Buttons/Outline Blue/Hover & Click
+  token: component-buttons-outline-blue-hover-click
+  type: solid
+- name: Component/Buttons/Outline Blue/Outline & Text
+  token: component-buttons-outline-blue-outline-text
+  type: solid
+- name: Component/Buttons/Outline Green/Default
+  token: component-buttons-outline-green-default
+  type: solid
+- name: Component/Buttons/Outline Green/Hover & Click
+  token: component-buttons-outline-green-hover-click
+  type: solid
+- name: Component/Buttons/Outline Green/Outline
+  token: component-buttons-outline-green-outline
+  type: solid
+- name: Component/Buttons/Outline Green/Text
+  token: component-buttons-outline-green-text
+  type: solid
+- name: Component/Buttons/Outline Red/Default
+  token: component-buttons-outline-red-default
+  type: solid
+- name: Component/Buttons/Outline Red/Hover & Click
+  token: component-buttons-outline-red-hover-click
+  type: solid
+- name: Component/Buttons/Outline Red/Outline
+  token: component-buttons-outline-red-outline
+  type: solid
+- name: Component/Buttons/Outline Red/Text
+  token: component-buttons-outline-red-text
+  type: solid
+- name: Component/Buttons/Blue Ghost/Hover
+  token: component-buttons-blue-ghost-hover
+  type: solid
+- name: Component/Buttons/Red Ghost/Default
+  token: component-buttons-red-ghost-default
+  type: solid
+- name: Component/Buttons/Red Ghost/Text
+  token: component-buttons-red-ghost-text
+  type: solid

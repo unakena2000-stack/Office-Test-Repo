@@ -1,0 +1,208 @@
+# Dark Mode Tokens — Left Menu
+# Converted from uploaded file: 🌑 Dark.tokens.json
+# Format: DTCG token structure preserved as-is
+
+Left Menu:
+  Left panel BG:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.13333334028720856
+      - 0.20392157137393951
+      - 0.3450980484485626
+      alpha: 1
+      hex: '#223458'
+    $extensions:
+      com.figma.variableId: VariableID:71339:35993
+      com.figma.scopes:
+      - ALL_SCOPES
+  Menu Hover Bg:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.1921568661928177
+      - 0.2666666805744171
+      - 0.43529412150382996
+      alpha: 1
+      hex: '#31446F'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45261
+      com.figma.scopes:
+      - ALL_SCOPES
+  Menu Active BG:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.1921568661928177
+      - 0.2666666805744171
+      - 0.43529412150382996
+      alpha: 1
+      hex: '#31446F'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45271
+      com.figma.scopes:
+      - ALL_SCOPES
+  Text:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.7607843279838562
+      - 0.7960784435272217
+      - 0.8705882430076599
+      alpha: 1
+      hex: '#C2CBDE'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45262
+      com.figma.scopes:
+      - ALL_SCOPES
+  Text Active:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 1
+      - 1
+      - 1
+      alpha: 1
+      hex: '#FFFFFF'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45272
+      com.figma.scopes:
+      - ALL_SCOPES
+  Placeholder:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.5490196347236633
+      - 0.5686274766921997
+      - 0.6705882549285889
+      alpha: 1
+      hex: '#8C91AB'
+    $extensions:
+      com.figma.variableId: VariableID:82914:146764
+      com.figma.scopes:
+      - ALL_SCOPES
+      com.figma.aliasData:
+        targetVariableId: VariableID:daa7a0e9d85ba1d2c9c8ad7a0afd4abc0db70747/-1:-1
+        targetVariableName: Component/Input/Placeholder Text
+        targetVariableSetId: VariableCollectionId:9a2baaa45bc204840365c642472f5662821a4fad/-1:-1
+        targetVariableSetName: CRM - Style Guide
+  Border-Section:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.3137255012989044
+      - 0.364705890417099
+      - 0.5058823823928833
+      alpha: 1
+      hex: '#505D81'
+    $extensions:
+      com.figma.variableId: VariableID:71602:179221
+      com.figma.scopes:
+      - ALL_SCOPES
+  Input, Dropdown Border:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.3137255012989044
+      - 0.364705890417099
+      - 0.5058823823928833
+      alpha: 1
+      hex: '#505D81'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45273
+      com.figma.scopes:
+      - ALL_SCOPES
+  Dropdown BG:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.21568627655506134
+      - 0.3019607961177826
+      - 0.49803921580314636
+      alpha: 1
+      hex: '#374D7F'
+    $extensions:
+      com.figma.variableId: VariableID:71527:39810
+      com.figma.scopes:
+      - ALL_SCOPES
+  Dropdown hover:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.21568627655506134
+      - 0.3019607961177826
+      - 0.49803921580314636
+      alpha: 1
+      hex: '#374D7F'
+    $extensions:
+      com.figma.variableId: VariableID:71527:42665
+      com.figma.scopes:
+      - ALL_SCOPES
+  + Icon Hover:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.13333334028720856
+      - 0.20392157137393951
+      - 0.3450980484485626
+      alpha: 1
+      hex: '#223458'
+    $extensions:
+      com.figma.variableId: VariableID:71489:47967
+      com.figma.scopes:
+      - ALL_SCOPES
+  Menu Icon:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.4901960790157318
+      - 0.5411764979362488
+      - 0.6549019813537598
+      alpha: 1
+      hex: '#7D8AA7'
+    $extensions:
+      com.figma.variableId: VariableID:71416:45270
+      com.figma.scopes:
+      - ALL_SCOPES
+  Icon Base Color:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.8705882430076599
+      - 0.8901960849761963
+      - 0.9333333373069763
+      alpha: 1
+      hex: '#DEE3EE'
+    $extensions:
+      com.figma.variableId: VariableID:71527:42307
+      com.figma.scopes:
+      - ALL_SCOPES
+  Icon Label Color:
+    $type: color
+    $value:
+      colorSpace: srgb
+      components:
+      - 0.7607843279838562
+      - 0.7960784435272217
+      - 0.8705882430076599
+      alpha: 1
+      hex: '#C2CBDE'
+    $extensions:
+      com.figma.variableId: VariableID:71527:42308
+      com.figma.scopes:
+      - ALL_SCOPES
+$extensions:
+  com.figma.modeName: 🌑 Dark
